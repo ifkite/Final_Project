@@ -6,21 +6,18 @@ Monte Carlo simulation: Predicting NBA western conference champion of season 201
 Xiang Chen, Mengyuan Li, Yushuo Fan, Ruoqiao Zhang(Thursday)
 
 # Monte Carlo Simulation Scenario & Purpose:
-Purpose: This program aims to use Monte Carlo Methods to predict NBA western conference champion of season 2017-2018.
-         After the execution of Monte Carlo simulation of the match, the team who has the highest probabilty of winning  
-         (calulated by predicted winning times / simulation times) will be the predicted winner.
+Purpose: This program aims to use Monte Carlo Methods to predict NBA western conference champion of season 2017-2018. After the execution of Monte Carlo simulation of the match, the team who has the highest probabilty of winning (calulated by predicted winning times / simulation times) will be the predicted winner.</br>
 
-Scenario: The match is going on now and has come to the playoff. There are 8 teams surviving to compete for the final
-          champion.These 8 teams are ranked according to their performance in previous matches and we represented them as
-          Team1, Team2,...,Team8.
+Scenario: The match is going on now and has come to the playoff. There are 8 teams surviving to compete for the champion.These 8 teams are ranked according to their performance in previous matches and we represented them as
+Team1, Team2,...,Team8.</br>
 
-The 1st turn: Team1 VS Team8 ===> Winner(1,8)
-              Team2 VS Team7 ===> Winner(2,7)
-              Team3 VS Team6 ===> Winner(3,6)
-              Team4 VS Team5 ===> Winner(4,5)
-The 2nd turn: Winner(1,8) VS Winner(4,5) ===> Final_Team1
-              Winner(2,7) VS Winner(3,6) ===> Final_Team2
-The 3rd turn: Final_Team1 VS Final_Team2 ===> Champion
+The 1st turn:     Team1 VS Team8 ===> Winner(1,8)</br>
+                  Team2 VS Team7 ===> Winner(2,7)</br>
+                  Team3 VS Team6 ===> Winner(3,6)</br>
+                  Team4 VS Team5 ===> Winner(4,5)</br>
+The 2nd turn:     Winner(1,8) VS Winner(4,5) ===> Final_Team1</br>
+                  Winner(2,7) VS Winner(3,6) ===> Final_Team2</br>
+The 3rd turn:     Final_Team1 VS Final_Team2 ===> Champion</br>
           
 
 ## Simulation's variables of uncertainty
@@ -35,20 +32,23 @@ There are 3 random varibales in this project, the performance of each team membe
    
    In general, it is reasonable to assume that a player's performance subjects to normal distribution because in a certain period his performance is shifting around his average level and rarely has extreme situations. Hence, we will collect historical data of recent matches to calculate the expection and variance of X_player and get his performance distribution.
 
-2. The performance of each team:
-  This random varibale is represented by X_team = X_player1 + X_player2 + X_player3 + X_player4 + X_player5. (A team will choose 5 players to play the match). X_team subjects to normal distribution.
-  Assume that each player's performance is independent of each other, since X_player subjects to normal distribution, then the mapping value, namely X_team, of their linear function also subjects to normal distribution.
-  In simulation, the team who has a higher X_team will win the match.
+2. The performance of each team:</br>
 
-3. Decision of which 5 players will be chosen to fight for their team
-   This random variable is represented by D_team and subjects to general discrete distribution.
+  This random varibale is represented by X_team = X_player1 + X_player2 + X_player3 + X_player4 + X_player5. (A team will choose 5 players to play the match). X_team subjects to normal distribution.</br>
+  
+  Assume that each player's performance is independent of each other, since X_player subjects to normal distribution, then the mapping value, namely X_team, of their linear function also subjects to normal distribution. In simulation, the team who has a higher X_team will win the match.
+
+3. Decision of which 5 players will be chosen to fight for their team</br>
+
+   This random variable is represented by D_team and subjects to general discrete distribution.</br>
+   
    Ususally, the longer a player plays in recent matches, the higher probabilty that he will be chosen to fight for the upcoming match. Therefore, for each player in each team, we will calculate his probability of being chosen, and then for each team, we will randomly select 5 among 15 players according to the probabilities we get above and assign the decision to D_team
 
 ## Hypothesis or hypotheses before running the simulation:
-1. Players are independent of each other.
-2. The performance of player is subject to normal distribution. (The reason has been stated above)
-3. The longer a player plays in recent matches, the higher the probability that he will be chose to play the upcoming match.
-4. After the simulation, the team who has highest probability of winning, namely who wins the most times in the simulation, will be the predicted winner.
+1. Players are independent of each other.</br>
+2. The performance of player is subject to normal distribution. (The reason has been stated above)</br>
+3. The longer a player plays in recent matches, the higher the probability that he will be chose to play the upcoming match.</br>
+4. After the simulation, the team who has highest probability of winning, namely who wins the most times in the simulation, will be the predicted winner.</br>
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 Remains to be updated after completeing the whole program
