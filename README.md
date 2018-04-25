@@ -28,8 +28,11 @@ The 3rd turn: Final_Team1 VS Final_Team2 ===> Champion
 There are 3 random varibales in this project, the performance of each team member, the performance of each team and the decision of which 5 players will be chosen by their team to fight for the match. The first and the third random variables are independent of each other, while the second one is depended on the first one.
 
 1. The performance of each team member:</br>
-   This random variable is represented by X_player and subjects to normal distribution.
-   X_player = w1 * feature1 + w2 * feature2 +..., where features are rewards and punishments(such as shot and foul) of a player in a match, and w are the weights to measure how much contribution a feature makes to a player's comprehensive performance, and we have sum(w) = 1.
+   
+   This random variable is represented by X_player and subjects to normal distribution.</br>
+   
+   X_player = w1 * feature1 + w2 * feature2 +..., where features are rewards and punishments(such as shot and foul) of a player in a match, and w are the weights to measure how much contribution a feature makes to a player's comprehensive performance, and we have sum(w) = 1.</br>
+   
    In general, it is reasonable to assume that a player's performance subjects to normal distribution because in a certain period his performance is shifting around his average level and rarely has extreme situations. Hence, we will collect historical data of recent matches to calculate the expection and variance of X_player and get his performance distribution.
 
 2. The performance of each team:
