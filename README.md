@@ -11,20 +11,20 @@ Purpose: This program aims to use Monte Carlo Methods to predict NBA western con
 Scenario: The match is going on now and has come to the playoff. There are 8 teams surviving to compete for the champion.These 8 teams are ranked according to their performance in previous matches and we represented them as
 Team1, Team2,...,Team8.</br>
 
-The 1st turn:     Team1 VS Team8 ===> Winner(1,8)</br>
+The 1st turn:<\br>     Team1 VS Team8 ===> Winner(1,8)</br>
                   Team2 VS Team7 ===> Winner(2,7)</br>
                   Team3 VS Team6 ===> Winner(3,6)</br>
                   Team4 VS Team5 ===> Winner(4,5)</br>
-The 2nd turn:     Winner(1,8) VS Winner(4,5) ===> Final_Team1</br>
+The 2nd turn:<\br>     Winner(1,8) VS Winner(4,5) ===> Final_Team1</br>
                   Winner(2,7) VS Winner(3,6) ===> Final_Team2</br>
-The 3rd turn:     Final_Team1 VS Final_Team2 ===> Champion</br>
+The 3rd turn:<\br>     Final_Team1 VS Final_Team2 ===> Champion</br>
           
 
 ## Simulation's variables of uncertainty
 
 There are 3 random varibales in this project, the performance of each team member, the performance of each team and the decision of which 5 players will be chosen by their team to fight for the match. The first and the third random variables are independent of each other, while the second one is depended on the first one.
 
-1. The performance of each team member:</br>
+**1. The performance of each team member:**</br>
    
    This random variable is represented by X_player and subjects to normal distribution.</br>
    
@@ -32,13 +32,13 @@ There are 3 random varibales in this project, the performance of each team membe
    
    In general, it is reasonable to assume that a player's performance subjects to normal distribution because in a certain period his performance is shifting around his average level and rarely has extreme situations. Hence, we will collect historical data of recent matches to calculate the expection and variance of X_player and get his performance distribution.
 
-2. The performance of each team:</br>
+**2. The performance of each team:**</br>
 
   This random varibale is represented by X_team = X_player1 + X_player2 + X_player3 + X_player4 + X_player5. (A team will choose 5 players to play the match). X_team subjects to normal distribution.</br>
   
   Assume that each player's performance is independent of each other, since X_player subjects to normal distribution, then the mapping value, namely X_team, of their linear function also subjects to normal distribution. In simulation, the team who has a higher X_team will win the match.
 
-3. Decision of which 5 players will be chosen to fight for their team</br>
+**3. Decision of which 5 players will be chosen to fight for their team:**</br>
 
    This random variable is represented by D_team and subjects to general discrete distribution.</br>
    
