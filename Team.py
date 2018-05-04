@@ -31,4 +31,4 @@ class Team:
         team_performance = np.random.normal(loc=team_performance_mean,
                                             scale=team_performance_std,
                                             size=1)
-        return team_performanc
+        return team_performance
