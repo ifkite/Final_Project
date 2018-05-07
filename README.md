@@ -53,10 +53,23 @@ Ususally, the longer a player plays in recent matches, the higher probabilty tha
 4. After the simulation, the team who has highest probability of winning, namely who wins the most times in the simulation, will be the predicted winner.</br>
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
-Remains to be updated after completeing the whole program
+We ran the simulation for 15000 times and get the result as follows:</br>
+Team name: Pelicans: 35.32 percent winning probability.</br>
+Team name: Jazz: 22.02 percent winning probability.</br>
+Team name: Thunders: 8.35 percent winning probability.</br>
+Team name: Rockets: 8.35 percent winning probability.</br>
+Team name: Trailblazers: 7.97 percent winning probability.</br>
+Team name: Timberwolves: 7.84 percent winning probability.</br>
+Team name: Warriors: 5.91 percent winning probability.</br>
+Team name: Spurs: 4.25 percent winning probability.</br>
+
+Now the match has came to the second round, and there are four teams in the second round:<\br>
+Jazz Pelicans Warriors Rockets <\br>
+Three of these four teams are in our predicted top 4 teams.
+
 
 ## Instructions on how to use the program:
-Download all the files (including data files) and run the main_NBA.py file
+Download all the files (including data files) and run the main_mc.py file
 
 ## All Sources Used:
 Using Monte Carlo Modeling for Betting. https://www.pinnacle.com/en/betting-articles/Betting-Strategy/monte-carlo-betting-model/LC6JUNGE2GFTDWVP
