@@ -63,8 +63,8 @@ Team name: Timberwolves: 7.84 percent winning probability.</br>
 Team name: Warriors: 5.91 percent winning probability.</br>
 Team name: Spurs: 4.25 percent winning probability.</br>
 
-Now the match has came to the second round, and there are four teams in the second round:<\br>
-Jazz Pelicans Warriors Rockets <\br>
+Now the match has came to the second round, and there are four teams in the second round:</br>
+Jazz Pelicans Warriors Rockets </br>
 Three of these four teams are in our predicted top 4 teams.
 
 
