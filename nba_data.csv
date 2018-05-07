@@ -1,0 +1,2345 @@
+Date,PlayerNM,PTS,REB,AST,STL,BLK,TOV,PF,MIN,Team
+22-Apr,Kevin Durant,34,13,2,0,1,3,0,40,Warriors
+22-Apr,Draymond Green,9,18,9,1,0,5,4,41,Warriors
+22-Apr,JaVale McGee,7,7,0,0,0,2,3,16,Warriors
+22-Apr,Klay Thompson,12,5,1,1,0,3,2,42,Warriors
+22-Apr,Andre Iguodala,4,6,2,1,0,2,4,26,Warriors
+22-Apr,Kevon Looney,2,5,1,0,0,0,2,13,Warriors
+22-Apr,Shaun Livingston,10,3,2,2,0,0,3,21,Warriors
+22-Apr,David West,8,3,1,1,0,1,2,13,Warriors
+22-Apr,Quuin Cook,4,1,1,0,1,0,1,15,Warriors
+22-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+22-Apr,Nick Young,0,0,0,0,0,0,1,8,Warriors
+22-Apr,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+22-Apr,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+22-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+22-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+22-Apr,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+19-Apr,Kevin Durant,26,9,6,0,0,4,3,33,Warriors
+19-Apr,Draymond Green,10,6,7,2,4,2,2,37,Warriors
+19-Apr,JaVale McGee,6,4,1,0,1,0,1,15,Warriors
+19-Apr,Klay Thompson,19,3,2,0,0,1,2,37,Warriors
+19-Apr,Andre Iguodala,10,4,4,0,0,0,1,26,Warriors
+19-Apr,Kevon Looney,4,2,1,3,1,0,2,22,Warriors
+19-Apr,David West,2,4,3,1,1,0,1,17,Warriors
+19-Apr,Shaun Livingston,16,3,1,1,0,1,1,19,Warriors
+19-Apr,Quuin Cook,12,3,1,1,0,2,2,20,Warriors
+19-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+19-Apr,Jordan Bell,0,0,0,0,0,0,0,2,Warriors
+19-Apr,Nick Young,3,0,0,0,0,0,0,2,Warriors
+19-Apr,Damian Jones,2,1,0,0,0,0,1,2,Warriors
+19-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+19-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+19-Apr,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+16-Apr,Kevin Durant,32,6,6,0,1,2,4,38,Warriors
+16-Apr,Draymond Green,9,5,6,2,0,2,5,35,Warriors
+16-Apr,JaVale McGee,10,7,2,2,1,2,3,18,Warriors
+16-Apr,Klay Thompson,31,0,5,0,0,1,1,39,Warriors
+16-Apr,Andre Iguodala,14,7,5,1,1,2,2,27,Warriors
+16-Apr,Kevon Looney,2,3,2,0,1,2,3,21,Warriors
+16-Apr,David West,10,4,2,0,1,0,3,14,Warriors
+16-Apr,Shaun Livingston,2,3,2,0,0,3,0,18,Warriors
+16-Apr,Quuin Cook,6,4,1,0,0,0,0,18,Warriors
+16-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+16-Apr,Nick Young,0,0,0,0,0,0,0,4,Warriors
+16-Apr,Jordan Bell,0,0,1,0,0,0,1,1,Warriors
+16-Apr,Damian Jones,0,0,0,0,0,1,2,1,Warriors
+16-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+16-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+16-Apr,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+14-Apr,Kevin Durant,24,9,7,2,0,4,2,31,Warriors
+14-Apr,Draymond Green,12,8,11,2,1,3,1,33,Warriors
+14-Apr,JaVale McGee,15,4,0,1,2,0,4,16,Warriors
+14-Apr,Klay Thompson,27,2,2,1,0,1,3,35,Warriors
+14-Apr,Andre Iguodala,3,7,4,0,1,1,0,23,Warriors
+14-Apr,David West,4,3,1,0,0,1,2,16,Warriors
+14-Apr,Quuin Cook,5,4,2,0,1,0,1,25,Warriors
+14-Apr,Kevon Looney,6,6,3,0,1,2,2,20,Warriors
+14-Apr,Shaun Livingston,11,4,2,0,0,1,1,19,Warriors
+14-Apr,Nick Young,3,0,0,0,0,0,1,7,Warriors
+14-Apr,Jordan Bell,3,2,0,0,0,0,0,6,Warriors
+14-Apr,Damian Jones,0,2,0,0,0,2,1,4,Warriors
+14-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+14-Apr,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+14-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+14-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+10-Apr,Kevin Durant,13,4,1,0,0,2,2,29,Warriors
+10-Apr,Draymond Green,4,3,3,0,0,5,1,19,Warriors
+10-Apr,Zaza Pachulia,4,6,2,0,0,0,1,13,Warriors
+10-Apr,Klay Thompson,23,1,1,1,0,2,2,35,Warriors
+10-Apr,Quuin Cook,8,4,1,0,0,1,4,33,Warriors
+10-Apr,JaVale McGee,5,4,0,1,1,1,0,11,Warriors
+10-Apr,Nick Young,6,2,1,0,0,0,1,24,Warriors
+10-Apr,Shaun Livingston,2,2,4,0,0,0,1,15,Warriors
+10-Apr,David West,0,4,0,1,2,1,0,13,Warriors
+10-Apr,Kevon Looney,12,5,0,2,0,1,4,21,Warriors
+10-Apr,Damian Jones,0,2,0,1,0,0,1,9,Warriors
+10-Apr,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+10-Apr,Jordan Bell,2,2,1,1,0,2,1,13,Warriors
+10-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+10-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+10-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+7-Apr,Kevin Durant,41,10,5,0,0,4,2,35,Warriors
+7-Apr,Draymond Green,11,10,9,1,0,7,5,36,Warriors
+7-Apr,Kevon Looney,10,6,2,0,0,0,4,27,Warriors
+7-Apr,Klay Thompson,18,4,1,0,0,0,1,37,Warriors
+7-Apr,Quuin Cook,21,3,7,0,0,2,3,37,Warriors
+7-Apr,Jordan Bell,1,1,0,0,0,2,0,4,Warriors
+7-Apr,Andre Iguodala,4,3,5,0,0,0,3,21,Warriors
+7-Apr,Nick Young,8,4,0,2,0,1,2,20,Warriors
+7-Apr,David West,6,1,2,0,0,1,1,13,Warriors
+7-Apr,Damian Jones,0,0,0,0,0,0,0,4,Warriors
+7-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+7-Apr,JaVale McGee,0,0,0,0,0,0,0,0,Warriors
+7-Apr,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+7-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+7-Apr,Shaun Livingston,0,0,0,0,0,0,0,0,Warriors
+7-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Kevin Durant,34,10,4,1,1,3,2,35,Warriors
+3-Apr,Draymond Green,5,4,8,2,0,4,2,36,Warriors
+3-Apr,Zaza Pachulia,2,2,1,1,0,1,2,12,Warriors
+3-Apr,Klay Thompson,20,4,3,3,0,4,3,35,Warriors
+3-Apr,Quuin Cook,12,3,6,0,0,0,2,37,Warriors
+3-Apr,Nick Young,8,3,0,0,0,0,4,25,Warriors
+3-Apr,JaVale McGee,8,2,0,0,0,0,3,9,Warriors
+3-Apr,Jordan Bell,6,7,2,0,2,0,0,18,Warriors
+3-Apr,David West,8,3,3,2,1,0,3,14,Warriors
+3-Apr,Damian Jones,8,2,0,0,1,1,4,13,Warriors
+3-Apr,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Kevon Looney,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+3-Apr,Shaun Livingston,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Patric McCaw,8,2,3,0,0,3,2,33,Warriors
+25-Mar,Kevon Looney,6,5,2,2,2,1,4,24,Warriors
+25-Mar,JaVale McGee,8,9,0,1,2,0,2,28,Warriors
+25-Mar,Nick Young,9,3,1,1,0,1,3,37,Warriors
+25-Mar,Quuin Cook,17,4,8,1,1,1,1,34,Warriors
+25-Mar,Andre Iguodala,12,2,2,1,0,1,3,19,Warriors
+25-Mar,Zaza Pachulia,6,4,3,0,1,2,1,11,Warriors
+25-Mar,Jordan Bell,6,4,4,1,0,0,1,17,Warriors
+25-Mar,Shaun Livingston,4,2,1,1,0,2,1,18,Warriors
+25-Mar,David West,9,2,0,1,1,0,0,12,Warriors
+25-Mar,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Draymond Green,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Kevin Durant,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Klay Thompson,0,0,0,0,0,0,0,0,Warriors
+25-Mar,Damian Jones,6,4,0,0,0,0,1,12,Warriors
+19-Mar,Andre Iguodala,10,5,4,1,1,1,2,24,Warriors
+19-Mar,Draymond Green,0,3,0,0,0,0,1,11,Warriors
+19-Mar,Zaza Pachulia,6,3,0,0,0,1,1,14,Warriors
+19-Mar,Nick Young,10,2,0,0,0,2,2,40,Warriors
+19-Mar,Quuin Cook,20,5,5,0,0,4,3,37,Warriors
+19-Mar,JaVale McGee,4,3,3,3,3,0,3,11,Warriors
+19-Mar,Kevon Looney,12,8,0,1,1,0,2,21,Warriors
+19-Mar,Patric McCaw,3,1,1,1,1,2,2,24,Warriors
+19-Mar,Shaun Livingston,7,1,2,0,0,0,1,16,Warriors
+19-Mar,David West,2,2,1,1,1,4,3,13,Warriors
+19-Mar,Jordan Bell,1,3,1,2,2,1,4,22,Warriors
+19-Mar,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+19-Mar,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+19-Mar,Kevin Durant,0,0,0,0,0,0,0,0,Warriors
+19-Mar,Klay Thompson,0,0,0,0,0,0,0,0,Warriors
+19-Mar,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Kevin Durant,39,12,4,0,3,2,3,38,Warriors
+11-Mar,Draymond Green,10,8,7,3,1,2,1,35,Warriors
+11-Mar,JaVale McGee,2,3,0,1,0,0,2,14,Warriors
+11-Mar,Klay Thompson,21,4,5,0,0,4,0,39,Warriors
+11-Mar,Quuin Cook,4,4,2,0,0,3,3,29,Warriors
+11-Mar,Kevon Looney,0,0,0,0,0,0,1,7,Warriors
+11-Mar,Zaza Pachulia,16,11,3,1,2,0,3,25,Warriors
+11-Mar,Nick Young,0,2,0,1,1,0,2,21,Warriors
+11-Mar,Shaun Livingston,8,4,1,0,0,1,0,20,Warriors
+11-Mar,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+11-Mar,David West,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+11-Mar,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Kevin Durant,40,6,6,0,2,5,1,36,Warriors
+9-Mar,Draymond Green,7,12,6,3,0,1,3,37,Warriors
+9-Mar,JaVale McGee,10,2,1,1,1,0,1,19,Warriors
+9-Mar,Klay Thompson,25,2,3,1,0,3,3,35,Warriors
+9-Mar,Quuin Cook,8,1,0,0,0,0,2,30,Warriors
+9-Mar,Kevon Looney,8,3,0,0,0,0,5,19,Warriors
+9-Mar,Nick Young,3,3,0,0,0,0,1,23,Warriors
+9-Mar,Shaun Livingston,6,1,2,0,0,2,2,17,Warriors
+9-Mar,Zaza Pachulia,0,1,0,1,0,0,1,6,Warriors
+9-Mar,Stephen Curry,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Damian Jones,0,0,0,0,0,0,0,1,Warriors
+9-Mar,David West,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+9-Mar,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+8-Mar,Kevin Durant,37,11,4,0,4,3,1,38,Warriors
+8-Mar,Draymond Green,11,12,10,3,2,2,5,36,Warriors
+8-Mar,JaVale McGee,13,7,0,0,4,0,2,17,Warriors
+8-Mar,Klay Thompson,13,2,6,0,0,0,0,36,Warriors
+8-Mar,Stephen Curry,2,0,0,0,0,0,0,2,Warriors
+8-Mar,Quuin Cook,2,1,1,0,0,1,1,21,Warriors
+8-Mar,Zaza Pachulia,5,4,1,1,0,0,1,10,Warriors
+8-Mar,Nick Young,12,2,1,1,0,1,3,26,Warriors
+8-Mar,Shaun Livingston,9,7,7,0,1,2,2,24,Warriors
+8-Mar,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+8-Mar,Kevon Looney,4,2,0,1,0,1,2,14,Warriors
+8-Mar,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+8-Mar,David West,0,0,0,0,0,0,0,0,Warriors
+8-Mar,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+8-Mar,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+8-Mar,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+24-Feb,Kevin Durant,28,5,2,1,1,2,0,31,Warriors
+24-Feb,Draymond Green,10,5,8,1,1,4,3,33,Warriors
+24-Feb,JaVale McGee,2,6,0,0,1,1,4,10,Warriors
+24-Feb,Klay Thompson,11,4,2,1,0,0,0,30,Warriors
+24-Feb,Stephen Curry,21,9,6,3,0,2,2,29,Warriors
+24-Feb,Andre Iguodala,7,6,7,0,0,2,1,22,Warriors
+24-Feb,Zaza Pachulia,4,6,2,0,1,1,4,18,Warriors
+24-Feb,Nick Young,16,5,2,1,0,1,2,18,Warriors
+24-Feb,David West,2,1,3,1,1,1,2,13,Warriors
+24-Feb,Shaun Livingston,5,1,3,0,0,0,2,12,Warriors
+24-Feb,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+24-Feb,Kevon Looney,0,2,0,0,1,0,1,5,Warriors
+24-Feb,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+24-Feb,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+24-Feb,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+24-Feb,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+14-Feb,Kevin Durant,50,7,6,0,2,4,1,37,Warriors
+14-Feb,Draymond Green,16,12,7,2,4,0,5,38,Warriors
+14-Feb,Zaza Pachulia,1,1,0,1,0,1,1,5,Warriors
+14-Feb,Klay Thompson,17,4,2,0,0,1,2,38,Warriors
+14-Feb,Stephen Curry,17,4,6,3,0,7,4,34,Warriors
+14-Feb,JaVale McGee,4,1,0,1,0,0,1,5,Warriors
+14-Feb,Nick Young,0,2,0,1,0,1,0,14,Warriors
+14-Feb,Andre Iguodala,0,3,1,0,0,0,4,28,Warriors
+14-Feb,David West,6,5,1,0,1,0,3,13,Warriors
+14-Feb,Shaun Livingston,6,2,1,0,0,2,2,16,Warriors
+14-Feb,Kevon Looney,0,0,0,0,0,0,0,2,Warriors
+14-Feb,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+14-Feb,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+14-Feb,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+14-Feb,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+14-Feb,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+25-Jan,Kevin Durant,28,10,11,2,3,4,2,36,Warriors
+25-Jan,Draymond Green,9,8,3,1,3,2,0,32,Warriors
+25-Jan,Zaza Pachulia,9,6,3,0,0,0,1,16,Warriors
+25-Jan,Klay Thompson,25,5,3,1,1,3,1,35,Warriors
+25-Jan,Stephen Curry,25,5,9,3,0,2,2,37,Warriors
+25-Jan,Andre Iguodala,10,5,3,1,1,0,2,25,Warriors
+25-Jan,Kevon Looney,2,3,1,0,0,1,1,13,Warriors
+25-Jan,Nick Young,6,0,0,0,0,0,3,15,Warriors
+25-Jan,David West,6,2,1,1,0,3,3,11,Warriors
+25-Jan,Shaun Livingston,6,3,3,0,0,0,2,15,Warriors
+25-Jan,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+25-Jan,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+25-Jan,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+25-Jan,Patric McCaw,0,0,0,0,0,0,0,0,Warriors
+25-Jan,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+25-Jan,JaVale McGee,0,0,0,0,0,0,0,0,Warriors
+20-Jan,Kevin Durant,26,7,5,0,2,4,2,35,Warriors
+20-Jan,Draymond Green,21,7,6,2,1,5,2,35,Warriors
+20-Jan,Zaza Pachulia,4,4,3,0,0,0,2,16,Warriors
+20-Jan,Klay Thompson,8,1,1,2,0,1,3,36,Warriors
+20-Jan,Stephen Curry,19,1,8,2,0,6,2,36,Warriors
+20-Jan,Patric McCaw,4,2,2,0,1,1,3,19,Warriors
+20-Jan,Kevon Looney,2,3,1,0,1,0,2,12,Warriors
+20-Jan,Nick Young,16,1,0,1,0,0,3,17,Warriors
+20-Jan,David West,8,4,1,1,2,2,2,13,Warriors
+20-Jan,Andre Iguodala,0,0,0,0,0,0,0,0,Warriors
+20-Jan,Shaun Livingston,0,3,4,0,3,0,3,15,Warriors
+20-Jan,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+20-Jan,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+20-Jan,Jordan Bell,0,0,0,0,0,0,0,0,Warriors
+20-Jan,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+20-Jan,JaVale McGee,0,0,0,0,0,0,0,0,Warriors
+4-Jan,Draymond Green,17,14,10,2,1,4,3,38,Warriors
+4-Jan,Andre Iguodala,10,2,8,2,1,2,2,30,Warriors
+4-Jan,Zaza Pachulia,6,1,1,1,0,0,2,14,Warriors
+4-Jan,Klay Thompson,28,3,4,0,0,1,2,37,Warriors
+4-Jan,Stephen Curry,29,9,5,1,0,3,3,36,Warriors
+4-Jan,Jordan Bell,0,0,0,0,1,0,1,6,Warriors
+4-Jan,Patric McCaw,4,1,3,0,0,0,1,17,Warriors
+4-Jan,Nick Young,11,1,1,0,0,0,0,19,Warriors
+4-Jan,David West,12,2,2,0,2,1,3,11,Warriors
+4-Jan,Shaun Livingston,0,4,1,0,0,1,1,12,Warriors
+4-Jan,Kevon Looney,7,8,0,0,1,0,0,14,Warriors
+4-Jan,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+4-Jan,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+4-Jan,Kevin Durant,0,0,0,0,0,0,0,0,Warriors
+4-Jan,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+4-Jan,JaVale McGee,0,0,0,0,0,0,0,0,Warriors
+4-Dec,Kevin Durant,19,7,5,2,1,7,3,34,Warriors
+4-Dec,Draymond Green,19,9,7,4,2,2,1,38,Warriors
+4-Dec,JaVale McGee,8,4,0,0,1,0,3,11,Warriors
+4-Dec,Klay Thompson,22,3,1,1,0,0,0,35,Warriors
+4-Dec,Stephen Curry,31,5,11,1,0,2,5,34,Warriors
+4-Dec,Jordan Bell,4,1,0,1,0,2,1,12,Warriors
+4-Dec,Andre Iguodala,4,4,7,3,0,3,0,26,Warriors
+4-Dec,Kevon Looney,0,1,0,0,0,0,0,3,Warriors
+4-Dec,Patric McCaw,3,0,1,1,0,0,1,4,Warriors
+4-Dec,David West,9,4,2,1,1,0,1,13,Warriors
+4-Dec,Nick Young,6,1,0,0,0,0,0,13,Warriors
+4-Dec,Shaun Livingston,0,0,0,0,0,0,0,0,Warriors
+4-Dec,Chris Boucher,0,0,0,0,0,0,0,0,Warriors
+4-Dec,Damian Jones,0,0,0,0,0,0,0,0,Warriors
+4-Dec,Quuin Cook,6,1,0,0,0,0,0,6,Warriors
+4-Dec,Zaza Pachulia,0,0,0,0,0,0,0,0,Warriors
+25-Apr,T.Ariza,16,4,3,0,0,0,4,38,Rockets
+25-Apr,T.Black,0,0,0,0,0,0,0,1,Rockets
+25-Apr,G.Green,3,2,0,0,1,0,1,9,Rockets
+25-Apr,A.Jackson,0,0,1,0,0,0,0,1,Rockets
+25-Apr,Z.Qi,0,0,0,0,0,0,0,1,Rockets
+25-Apr,Nene,2,2,0,0,0,0,1,10,Rockets
+25-Apr,R.Anderson,5,3,1,0,0,0,0,10,Rockets
+25-Apr,C.Capela,26,15,1,0,1,0,1,33,Rockets
+25-Apr,E.Gordon,19,1,0,1,1,0,3,32,Rockets
+25-Apr,J.Harden,24,5,12,2,2,3,2,38,Rockets
+25-Apr,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+25-Apr,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+25-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+25-Apr,C.Paul,12,5,9,0,0,0,1,34,Rockets
+25-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+25-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+25-Apr,P.Tucker,15,3,2,0,0,1,4,33,Rockets
+23-Apr,R.Anderson,0,1,1,0,0,0,2,17,Rockets
+23-Apr,T.Black,0,1,0,0,0,0,0,2,Rockets
+23-Apr,G.Green,2,4,0,0,0,2,1,16,Rockets
+23-Apr,A.Jackson,0,1,0,0,0,0,1,2,Rockets
+23-Apr,J.Johnson,2,0,0,0,0,0,0,2,Rockets
+23-Apr,Nene,4,5,2,0,0,1,1,14,Rockets
+23-Apr,T.Ariza,15,2,3,1,0,0,4,33,Rockets
+23-Apr,C.Capela,14,17,3,0,4,1,2,32,Rockets
+23-Apr,E.Gordon,18,1,2,1,0,0,0,30,Rockets
+23-Apr,J.Harden,36,4,3,4,1,1,4,33,Rockets
+23-Apr,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+23-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+23-Apr,C.Paul,25,6,6,5,0,1,1,34,Rockets
+23-Apr,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+23-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+23-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+23-Apr,P.Tucker,3,4,0,0,0,0,1,24,Rockets
+21-Apr,T.Black,0,1,1,0,0,0,0,2,Rockets
+21-Apr,G.Green,10,1,0,0,0,0,4,21,Rockets
+21-Apr,A.Jackson,1,0,0,0,0,0,0,2,Rockets
+21-Apr,Z.Qi,0,0,0,0,0,0,0,2,Rockets
+21-Apr,P.Tucker,4,5,1,0,1,1,1,23,Rockets
+21-Apr,Nene,4,2,0,0,0,1,1,11,Rockets
+21-Apr,R.Anderson,12,3,1,1,1,2,1,18,Rockets
+21-Apr,T.Ariza,6,4,0,2,0,0,0,34,Rockets
+21-Apr,C.Capela,7,11,1,0,1,0,1,27,Rockets
+21-Apr,E.Gordon,15,2,1,0,0,1,2,34,Rockets
+21-Apr,J.Harden,29,7,7,1,0,0,2,36,Rockets
+21-Apr,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+21-Apr,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+21-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+21-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+21-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+21-Apr,C.Paul,17,3,6,0,0,0,6,30,Rockets
+18-Apr,G.Green,21,12,1,0,1,0,2,26,Rockets
+18-Apr,A.Jackson,0,0,0,0,0,1,0,3,Rockets
+18-Apr,J.Johnson,2,2,2,0,0,1,1,16,Rockets
+18-Apr,C.Onuaku,0,1,1,1,0,0,1,3,Rockets
+18-Apr,Z.Qi,2,1,0,0,0,0,0,3,Rockets
+18-Apr,Nene,0,4,1,0,2,0,1,12,Rockets
+18-Apr,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+18-Apr,T.Ariza,15,5,1,1,0,0,2,35,Rockets
+18-Apr,T.Black,0,0,0,0,0,0,0,0,Rockets
+18-Apr,C.Capela,8,16,1,0,1,1,2,29,Rockets
+18-Apr,E.Gordon,9,4,0,0,0,2,1,29,Rockets
+18-Apr,J.Harden,12,4,7,3,3,3,2,31,Rockets
+18-Apr,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+18-Apr,C.Paul,27,3,8,3,1,1,2,30,Rockets
+18-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+18-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+18-Apr,P.Tucker,6,2,0,0,1,0,3,23,Rockets
+15-Apr,C.Capela,24,12,1,1,3,0,3,34,Rockets
+15-Apr,E.Gordon,7,1,2,1,1,0,0,30,Rockets
+15-Apr,J.Harden,44,4,8,2,0,3,2,41,Rockets
+15-Apr,C.Paul,14,3,4,2,0,6,3,34,Rockets
+15-Apr,P.Tucker,3,0,0,0,2,1,3,31,Rockets
+15-Apr,Nene,5,3,0,0,1,0,4,11,Rockets
+15-Apr,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+15-Apr,T.Ariza,3,5,0,2,0,1,1,33,Rockets
+15-Apr,T.Black,0,0,0,0,0,0,0,0,Rockets
+15-Apr,G.Green,4,7,0,0,0,0,3,20,Rockets
+15-Apr,A.Jackson,0,0,0,0,1,0,0,0,Rockets
+15-Apr,J.Johnson,0,2,0,0,0,0,0,7,Rockets
+15-Apr,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+15-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+15-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+15-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+15-Apr,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+7-Apr,T.Ariza,7,4,0,1,0,0,3,32,Rockets
+7-Apr,C.Capela,10,7,0,1,2,2,0,26,Rockets
+7-Apr,J.Harden,26,4,9,1,1,5,5,36,Rockets
+7-Apr,C.Paul,17,4,9,1,0,3,4,35,Rockets
+7-Apr,P.Tucker,16,10,3,0,0,2,5,28,Rockets
+7-Apr,Nene,2,1,1,0,0,1,4,14,Rockets
+7-Apr,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+7-Apr,T.Black,0,0,0,0,0,0,0,0,Rockets
+7-Apr,E.Gordon,0,0,0,0,0,0,0,0,Rockets
+7-Apr,G.Green,14,5,0,0,2,3,2,28,Rockets
+7-Apr,J.Johnson,2,3,0,0,0,0,1,16,Rockets
+7-Apr,L.Mbah a Moute,8,3,1,3,0,1,0,25,Rockets
+7-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+7-Apr,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+7-Apr,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+7-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+7-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+5-Apr,T.Ariza,10,1,1,1,0,1,3,27,Rockets
+5-Apr,C.Capela,11,10,1,2,1,0,2,32,Rockets
+5-Apr,J.Harden,24,6,7,1,0,8,0,34,Rockets
+5-Apr,L.Mbah a Moute,9,2,0,5,0,0,2,25,Rockets
+5-Apr,P.Tucker,3,5,0,0,2,1,2,31,Rockets
+5-Apr,Nene,0,0,0,0,0,0,0,0,Rockets
+5-Apr,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+5-Apr,T.Black,2,4,0,1,2,1,2,15,Rockets
+5-Apr,E.Gordon,0,0,0,0,0,0,0,0,Rockets
+5-Apr,G.Green,6,3,2,0,0,2,3,26,Rockets
+5-Apr,J.Johnson,4,3,0,0,0,0,0,18,Rockets
+5-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+5-Apr,C.Paul,27,4,5,0,0,2,2,31,Rockets
+5-Apr,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+5-Apr,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+5-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+5-Apr,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+1-Apr,R.Anderson,2,2,0,0,0,0,2,18,Rockets
+1-Apr,T.Black,4,2,0,0,0,0,1,4,Rockets
+1-Apr,G.Green,11,8,0,1,1,1,2,29,Rockets
+1-Apr,L.Mbah a Moute,2,3,1,1,0,1,2,22,Rockets
+1-Apr,T.Quarterman,0,1,1,0,0,0,0,2,Rockets
+1-Apr,Nene,0,0,0,0,0,0,0,0,Rockets
+1-Apr,T.Ariza,7,3,0,1,0,0,1,27,Rockets
+1-Apr,C.Capela,11,10,0,0,2,0,0,28,Rockets
+1-Apr,E.Gordon,18,3,1,0,0,1,5,29,Rockets
+1-Apr,J.Harden,25,3,8,0,0,5,5,36,Rockets
+1-Apr,J.Johnson,0,4,0,0,0,1,1,16,Rockets
+1-Apr,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+1-Apr,C.Paul,0,0,0,0,0,0,0,0,Rockets
+1-Apr,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+1-Apr,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+1-Apr,B.Weber,0,0,0,0,0,0,0,0,Rockets
+1-Apr,P.Tucker,3,3,1,0,0,0,0,28,Rockets
+24-Mar,R.Anderson,16,4,1,1,1,1,2,34,Rockets
+24-Mar,T.Ariza,8,5,2,1,0,0,3,31,Rockets
+24-Mar,T.Black,0,1,0,0,0,1,1,8,Rockets
+24-Mar,G.Green,14,3,2,1,0,0,3,32,Rockets
+24-Mar,J.Johnson,9,5,3,0,0,2,0,28,Rockets
+24-Mar,Nene,0,0,0,0,0,0,0,0,Rockets
+24-Mar,C.Capela,18,16,1,3,6,1,4,28,Rockets
+24-Mar,E.Gordon,19,4,4,2,0,4,0,28,Rockets
+24-Mar,J.Harden,27,6,8,1,1,9,0,30,Rockets
+24-Mar,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+24-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+24-Mar,C.Paul,0,0,0,0,0,0,0,0,Rockets
+24-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+24-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+24-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+24-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+24-Mar,P.Tucker,3,4,1,1,0,1,4,20,Rockets
+20-Mar,T.Ariza,6,3,2,0,0,0,1,28,Rockets
+20-Mar,C.Capela,5,6,1,0,1,1,4,24,Rockets
+20-Mar,E.Gordon,18,4,0,0,0,3,5,34,Rockets
+20-Mar,J.Harden,42,6,7,0,0,4,3,33,Rockets
+20-Mar,P.Tucker,3,3,0,0,2,0,1,29,Rockets
+20-Mar,Nene,0,0,0,0,0,0,0,0,Rockets
+20-Mar,R.Anderson,3,1,0,0,0,0,3,9,Rockets
+20-Mar,T.Black,0,0,0,0,0,0,0,0,Rockets
+20-Mar,G.Green,3,1,0,0,1,0,0,11,Rockets
+20-Mar,J.Johnson,0,2,1,1,0,0,2,15,Rockets
+20-Mar,L.Mbah a Moute,13,4,1,2,0,1,2,26,Rockets
+20-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+20-Mar,C.Paul,22,8,6,0,0,0,2,32,Rockets
+20-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+20-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+20-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+20-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+18-Mar,T.Ariza,11,1,2,3,1,0,2,33,Rockets
+18-Mar,C.Capela,16,12,2,0,3,0,5,31,Rockets
+18-Mar,E.Gordon,5,1,1,0,1,0,1,30,Rockets
+18-Mar,J.Harden,34,4,12,2,1,4,2,37,Rockets
+18-Mar,C.Paul,18,8,9,0,0,3,2,35,Rockets
+18-Mar,Nene,0,0,0,0,0,0,0,0,Rockets
+18-Mar,R.Anderson,14,0,2,0,0,0,3,17,Rockets
+18-Mar,T.Black,0,0,0,0,0,0,0,0,Rockets
+18-Mar,G.Green,12,1,0,0,0,0,2,15,Rockets
+18-Mar,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+18-Mar,L.Mbah a Moute,7,2,0,1,0,1,3,19,Rockets
+18-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+18-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+18-Mar,P.Tucker,12,4,0,0,2,3,6,24,Rockets
+18-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+18-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+18-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+17-Mar,T.Ariza,15,3,2,3,1,2,4,33,Rockets
+17-Mar,E.Gordon,14,5,1,1,1,3,0,29,Rockets
+17-Mar,J.Harden,23,5,11,4,1,10,4,36,Rockets
+17-Mar,C.Paul,25,4,5,3,0,2,2,33,Rockets
+17-Mar,P.Tucker,10,6,3,0,0,2,0,26,Rockets
+17-Mar,Nene,8,5,0,0,2,1,3,17,Rockets
+17-Mar,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+17-Mar,T.Black,0,0,0,0,0,0,0,0,Rockets
+17-Mar,C.Capela,10,3,1,0,2,0,3,27,Rockets
+17-Mar,G.Green,6,3,0,0,0,0,2,15,Rockets
+17-Mar,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+17-Mar,L.Mbah a Moute,11,3,2,0,0,0,2,24,Rockets
+17-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+17-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+17-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+17-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+17-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+12-Mar,T.Ariza,15,5,1,0,0,1,2,31,Rockets
+12-Mar,T.Black,0,2,0,0,0,0,3,4,Rockets
+12-Mar,G.Green,14,9,0,1,1,2,2,20,Rockets
+12-Mar,J.Johnson,0,3,4,0,0,1,2,26,Rockets
+12-Mar,L.Mbah a Moute,9,3,1,0,0,1,1,22,Rockets
+12-Mar,Nene,6,2,1,0,2,0,2,15,Rockets
+12-Mar,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+12-Mar,C.Capela,13,9,0,1,1,3,5,26,Rockets
+12-Mar,E.Gordon,1,1,2,0,0,3,1,23,Rockets
+12-Mar,J.Harden,28,6,6,0,0,3,3,29,Rockets
+12-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+12-Mar,C.Paul,18,3,9,1,0,1,1,23,Rockets
+12-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+12-Mar,P.Tucker,5,7,0,0,0,0,2,21,Rockets
+12-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+12-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+12-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+6-Mar,T.Ariza,15,3,2,3,1,2,4,33,Rockets
+6-Mar,E.Gordon,14,5,1,1,1,3,0,29,Rockets
+6-Mar,J.Harden,23,5,11,4,1,10,4,36,Rockets
+6-Mar,C.Paul,25,4,5,3,0,2,2,33,Rockets
+6-Mar,P.Tucker,10,6,3,0,0,2,0,26,Rockets
+6-Mar,Nene,8,5,0,0,2,1,3,17,Rockets
+6-Mar,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+6-Mar,T.Black,0,0,0,0,0,0,0,0,Rockets
+6-Mar,C.Capela,10,3,1,0,2,0,3,27,Rockets
+6-Mar,G.Green,6,3,0,0,0,0,2,15,Rockets
+6-Mar,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+6-Mar,L.Mbah a Moute,11,3,2,0,0,0,2,24,Rockets
+6-Mar,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+6-Mar,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+6-Mar,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+6-Mar,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+6-Mar,B.Weber,0,0,0,0,0,0,0,0,Rockets
+26-Feb,T.Ariza,9,3,0,0,0,0,3,33,Rockets
+26-Feb,J.Harden,26,11,5,4,0,6,1,35,Rockets
+26-Feb,J.Johnson,7,4,2,0,0,1,2,30,Rockets
+26-Feb,L.Mbah a Moute,17,3,0,1,1,0,1,29,Rockets
+26-Feb,C.Paul,15,6,7,3,0,2,2,34,Rockets
+26-Feb,Nene,9,5,1,2,0,3,4,20,Rockets
+26-Feb,R.Anderson,0,0,0,0,0,0,0,0,Rockets
+26-Feb,T.Black,8,4,0,2,1,1,3,18,Rockets
+26-Feb,C.Capela,0,0,0,0,0,0,0,0,Rockets
+26-Feb,E.Gordon,0,0,0,0,0,0,0,0,Rockets
+26-Feb,G.Green,3,1,0,1,0,1,2,16,Rockets
+26-Feb,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+26-Feb,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+26-Feb,P.Tucker,2,3,0,2,0,1,3,25,Rockets
+26-Feb,B.Weber,0,0,0,0,0,0,0,0,Rockets
+26-Feb,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+26-Feb,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+23-Feb,T.Ariza,11,5,1,1,1,0,3,26,Rockets
+23-Feb,C.Capela,25,11,2,1,1,1,3,32,Rockets
+23-Feb,J.Harden,31,2,9,2,0,4,2,34,Rockets
+23-Feb,C.Paul,14,10,8,1,0,3,1,33,Rockets
+23-Feb,P.Tucker,11,5,1,0,0,1,2,28,Rockets
+23-Feb,Nene,7,3,0,0,0,0,1,16,Rockets
+23-Feb,R.Anderson,7,6,1,0,0,0,2,20,Rockets
+23-Feb,T.Black,0,0,0,0,0,0,0,0,Rockets
+23-Feb,E.Gordon,0,0,0,0,0,0,0,0,Rockets
+23-Feb,G.Green,3,4,1,1,0,0,0,6,Rockets
+23-Feb,J.Johnson,10,3,1,0,0,1,3,22,Rockets
+23-Feb,L.Mbah a Moute,1,1,0,0,0,0,0,24,Rockets
+23-Feb,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+23-Feb,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+23-Feb,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+23-Feb,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+23-Feb,B.Weber,0,0,0,0,0,0,0,0,Rockets
+20-Jan,E.Gordon,6,3,2,1,0,0,2,34,Rockets
+20-Jan,J.Harden,22,2,8,2,2,6,1,35,Rockets
+20-Jan,L.Mbah a Moute,14,4,1,1,0,3,2,33,Rockets
+20-Jan,C.Paul,33,11,7,3,0,4,1,35,Rockets
+20-Jan,P.Tucker,12,7,0,2,0,1,3,27,Rockets
+20-Jan,Nene,6,1,0,0,0,0,5,16,Rockets
+20-Jan,R.Anderson,5,13,1,1,0,1,3,30,Rockets
+20-Jan,T.Ariza,0,0,0,0,0,0,0,0,Rockets
+20-Jan,T.Black,0,0,0,0,0,0,0,0,Rockets
+20-Jan,C.Capela,18,5,0,4,1,0,1,30,Rockets
+20-Jan,G.Green,0,0,0,0,0,0,0,0,Rockets
+20-Jan,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+20-Jan,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+20-Jan,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+20-Jan,B.Weber,0,0,0,0,0,0,0,0,Rockets
+20-Jan,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+20-Jan,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+4-Jan,T.Ariza,3,3,0,2,0,1,2,35,Rockets
+4-Jan,C.Capela,15,10,0,0,1,2,2,27,Rockets
+4-Jan,E.Gordon,30,3,7,3,1,1,1,38,Rockets
+4-Jan,G.Green,29,3,0,1,0,0,2,3,Rockets
+4-Jan,C.Paul,28,7,9,0,0,5,5,36,Rockets
+4-Jan,Nene,0,0,0,0,0,0,0,0,Rockets
+4-Jan,R.Anderson,6,6,2,0,0,0,1,25,Rockets
+4-Jan,T.Black,1,3,0,1,0,0,2,12,Rockets
+4-Jan,J.Harden,0,0,0,0,0,0,0,0,Rockets
+4-Jan,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+4-Jan,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+4-Jan,P.Tucker,0,1,0,0,1,0,0,22,Rockets
+4-Jan,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+4-Jan,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+4-Jan,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+4-Jan,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+4-Jan,B.Weber,2,2,2,0,0,1,2,12,Rockets
+18-Dec,T.Ariza,15,6,0,1,0,1,1,41,Rockets
+18-Dec,C.Capela,24,19,3,0,2,2,4,35,Rockets
+18-Dec,E.Gordon,33,0,1,0,1,0,2,34,Rockets
+18-Dec,J.Harden,26,6,6,2,1,5,2,38,Rockets
+18-Dec,C.Paul,18,10,1,1,2,2,3,35,Rockets
+18-Dec,Nene,0,0,0,0,0,0,0,0,Rockets
+18-Dec,R.Anderson,0,2,4,1,0,2,0,19,Rockets
+18-Dec,T.Black,0,0,0,0,0,2,0,3,Rockets
+18-Dec,L.Mbah a Moute,0,0,0,0,0,0,0,0,Rockets
+18-Dec,C.Onuaku,0,0,0,0,0,0,0,0,Rockets
+18-Dec,Z.Qi,0,0,0,0,0,0,0,0,Rockets
+18-Dec,P.Tucker,4,9,1,0,1,0,1,34,Rockets
+18-Dec,B.Weber,0,0,0,0,0,0,0,0,Rockets
+18-Dec,A.Jackson,0,0,0,0,0,0,0,0,Rockets
+18-Dec,G.Green,0,0,0,0,0,0,0,0,Rockets
+18-Dec,J.Johnson,0,0,0,0,0,0,0,0,Rockets
+18-Dec,T.Quarterman,0,0,0,0,0,0,0,0,Rockets
+21-Apr,Evan Tuner,15,1,5,0,0,2,4,37,Trailblazers 
+21-Apr,Al Farouq Aminu,27,6,1,2,0,0,4,36,Trailblazers 
+21-Apr,Jusuf Nurkic,18,11,2,3,2,0,6,33,Trailblazers 
+21-Apr,CJ Mccollum,38,2,3,0,0,2,5,45,Trailblazers 
+21-Apr,Damian Lillard,19,5,6,2,0,1,3,45,Trailblazers 
+21-Apr,Wade Baldwin IV,3,2,0,0,0,1,1,8,Trailblazers 
+21-Apr,Pat Connaughton,0,0,0,0,0,0,1,11,Trailblazers 
+21-Apr,Ed Davis,1,5,0,0,0,0,2,13,Trailblazers 
+21-Apr,Zach Collins,2,1,3,1,0,0,2,14,Trailblazers 
+21-Apr,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+21-Apr,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+21-Apr,Shabazz Napier,0,0,0,0,0,0,0,0,Trailblazers 
+21-Apr,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+21-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+21-Apr,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+19-Apr,Maurice Harkless,5,3,4,0,0,0,2,26,Trailblazers 
+19-Apr,Al Farouq Aminu,21,8,1,2,1,2,0,32,Trailblazers 
+19-Apr,Jusuf Nurkic,5,7,2,2,0,2,4,20,Trailblazers 
+19-Apr,CJ Mccollum,22,1,3,1,0,4,3,33,Trailblazers 
+19-Apr,Damian Lillard,20,3,2,0,0,8,1,35,Trailblazers 
+19-Apr,Zach Collins,6,4,0,0,1,0,4,12,Trailblazers 
+19-Apr,Pat Connaughton,0,1,1,0,0,1,3,14,Trailblazers 
+19-Apr,Shabazz Napier,5,1,2,2,0,3,0,22,Trailblazers 
+19-Apr,Ed Davis,0,8,0,0,0,2,1,18,Trailblazers 
+19-Apr,Wade Baldwin IV,1,1,2,1,1,1,0,9,Trailblazers 
+19-Apr,Jake Layman,6,1,1,2,0,0,0,9,Trailblazers 
+19-Apr,Meyers Leonard,8,4,0,0,0,0,0,9,Trailblazers 
+19-Apr,Caleb Swanigan,3,2,1,0,0,1,1,9,Trailblazers 
+19-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+19-Apr,Evan Tuner,0,0,0,0,0,0,0,0,Trailblazers 
+17-Apr,Evan Tuner,0,4,5,2,0,0,2,20,Trailblazers 
+17-Apr,Al Farouq Aminu,14,15,1,0,0,1,3,37,Trailblazers 
+17-Apr,Jusuf Nurkic,13,3,0,1,1,1,1,15,Trailblazers 
+17-Apr,CJ Mccollum,22,3,6,1,1,2,2,39,Trailblazers 
+17-Apr,Damian Lillard,17,3,4,1,0,7,2,40,Trailblazers 
+17-Apr,Maurice Harkless,11,5,0,0,1,1,2,27,Trailblazers 
+17-Apr,Ed Davis,4,6,0,0,0,1,1,22,Trailblazers 
+17-Apr,Pat Connaughton,9,1,4,0,1,0,4,20,Trailblazers 
+17-Apr,Zach Collins,12,5,0,0,0,2,3,23,Trailblazers 
+17-Apr,Wade Baldwin IV,0,0,0,0,0,1,0,1,Trailblazers 
+17-Apr,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+17-Apr,Shabazz Napier,0,0,0,0,0,0,0,0,Trailblazers 
+17-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+17-Apr,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+17-Apr,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+14-Apr,Evan Tuner,13,7,0,1,1,4,2,30,Trailblazers 
+14-Apr,Al Farouq Aminu,7,7,2,0,1,3,1,31,Trailblazers 
+14-Apr,Jusuf Nurkic,11,11,0,0,2,0,3,26,Trailblazers 
+14-Apr,CJ Mccollum,19,2,2,3,0,1,1,39,Trailblazers 
+14-Apr,Damian Lillard,18,7,7,2,0,0,2,42,Trailblazers 
+14-Apr,Ed Davis,6,13,0,0,1,1,3,21,Trailblazers 
+14-Apr,Zach Collins,8,2,3,2,1,0,1,23,Trailblazers 
+14-Apr,Wade Baldwin IV,0,0,1,0,0,0,0,4,Trailblazers 
+14-Apr,Pat Connaughton,7,2,1,1,0,0,1,19,Trailblazers 
+14-Apr,Shabazz Napier,6,1,1,1,0,3,1,14,Trailblazers 
+14-Apr,Meyers Leonard,0,0,0,0,0,0,0,1,Trailblazers 
+14-Apr,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+14-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+14-Apr,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+14-Apr,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+11-Apr,Evan Tuner,4,4,1,4,1,2,4,28,Trailblazers 
+11-Apr,Al Farouq Aminu,5,9,0,1,1,1,1,31,Trailblazers 
+11-Apr,Jusuf Nurkic,13,9,3,1,4,3,3,31,Trailblazers 
+11-Apr,CJ Mccollum,19,4,3,1,0,1,3,35,Trailblazers 
+11-Apr,Damian Lillard,36,1,10,1,0,0,0,38,Trailblazers 
+11-Apr,Wade Baldwin IV,5,2,0,0,1,0,3,14,Trailblazers 
+11-Apr,Ed Davis,4,8,0,0,1,2,2,17,Trailblazers 
+11-Apr,Zach Collins,2,4,1,1,1,1,2,18,Trailblazers 
+11-Apr,Pat Connaughton,5,1,1,0,0,0,3,17,Trailblazers 
+11-Apr,Shabazz Napier,9,3,0,0,0,0,1,15,Trailblazers 
+11-Apr,Jake Layman,0,0,0,0,0,0,0,1,Trailblazers 
+11-Apr,Caleb Swanigan,0,1,0,0,0,0,0,1,Trailblazers 
+11-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+11-Apr,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+11-Apr,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+7-Apr,Evan Tuner,18,1,4,2,0,1,2,33,Trailblazers 
+7-Apr,Al Farouq Aminu,3,7,1,1,1,3,4,34,Trailblazers 
+7-Apr,Jusuf Nurkic,12,12,4,0,3,1,3,31,Trailblazers 
+7-Apr,CJ Mccollum,17,3,2,0,1,0,0,38,Trailblazers 
+7-Apr,Damian Lillard,33,3,5,0,0,7,0,35,Trailblazers 
+7-Apr,Pat Connaughton,0,2,0,0,0,0,0,14,Trailblazers 
+7-Apr,Zach Collins,2,3,0,0,0,1,1,21,Trailblazers 
+7-Apr,Shabazz Napier,8,5,1,0,0,0,0,21,Trailblazers 
+7-Apr,Meyers Leonard,9,4,1,1,0,4,4,14,Trailblazers 
+7-Apr,Wade Baldwin IV,3,0,0,0,0,3,3,7,Trailblazers 
+7-Apr,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+7-Apr,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+7-Apr,Ed Davis,0,0,0,0,0,0,0,0,Trailblazers 
+7-Apr,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+7-Apr,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+5-Apr,Evan Tuner,10,3,3,0,0,2,4,27,Trailblazers 
+5-Apr,Al Farouq Aminu,4,7,1,2,1,1,3,25,Trailblazers 
+5-Apr,Jusuf Nurkic,14,11,1,1,0,2,2,33,Trailblazers 
+5-Apr,CJ Mccollum,16,5,4,0,1,6,0,34,Trailblazers 
+5-Apr,Shabazz Napier,8,4,2,1,0,1,2,30,Trailblazers 
+5-Apr,Zach Collins,1,3,1,0,0,1,2,15,Trailblazers 
+5-Apr,Pat Connaughton,9,4,0,2,0,0,2,20,Trailblazers 
+5-Apr,Wade Baldwin IV,14,1,3,2,0,2,2,33,Trailblazers 
+5-Apr,Meyers Leonard,2,2,0,0,0,0,0,3,Trailblazers 
+5-Apr,Caleb Swanigan,10,4,0,0,0,3,3,19,Trailblazers 
+5-Apr,Jake Layman,4,2,1,0,0,0,0,5,Trailblazers 
+5-Apr,Georgios Papagiannis,2,1,0,2,0,0,0,5,Trailblazers 
+5-Apr,Ed Davis,0,0,0,0,0,0,0,0,Trailblazers 
+5-Apr,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+5-Apr,Damian Lillard,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Evan Tuner,14,6,2,0,0,0,4,37,Trailblazers 
+27-Mar,Al Farouq Aminu,10,10,2,3,1,1,4,35,Trailblazers 
+27-Mar,Jusuf Nurkic,21,10,0,1,4,2,3,31,Trailblazers 
+27-Mar,CJ Mccollum,7,4,5,1,2,3,0,37,Trailblazers 
+27-Mar,Damian Lillard,41,9,6,4,0,0,3,42,Trailblazers 
+27-Mar,Shabazz Napier,8,3,1,2,0,4,1,19,Trailblazers 
+27-Mar,Ed Davis,4,3,1,0,0,0,0,19,Trailblazers 
+27-Mar,Zach Collins,2,1,1,0,0,0,1,14,Trailblazers 
+27-Mar,Pat Connaughton,0,1,2,0,0,0,1,11,Trailblazers 
+27-Mar,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+27-Mar,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+25-Mar,Maurice Harkless,16,6,4,0,4,0,4,34,Trailblazers 
+25-Mar,Al Farouq Aminu,9,7,2,2,0,1,1,33,Trailblazers 
+25-Mar,Jusuf Nurkic,17,12,1,2,2,1,3,31,Trailblazers 
+25-Mar,CJ Mccollum,34,4,4,1,0,1,2,39,Trailblazers 
+25-Mar,Damian Lillard,24,7,5,3,0,2,1,38,Trailblazers 
+25-Mar,Evan Tuner,2,1,0,0,0,2,0,15,Trailblazers 
+25-Mar,Pat Connaughton,0,5,0,0,0,1,2,12,Trailblazers 
+25-Mar,Ed Davis,2,2,1,0,0,3,4,18,Trailblazers 
+25-Mar,Zach Collins,2,1,1,0,1,1,0,10,Trailblazers 
+25-Mar,Shabazz Napier,2,4,2,0,0,1,2,13,Trailblazers 
+25-Mar,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+25-Mar,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+25-Mar,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+25-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+25-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+20-Mar,Maurice Harkless,17,1,1,0,2,1,3,29,Trailblazers 
+20-Mar,Al Farouq Aminu,22,8,4,1,1,0,5,34,Trailblazers 
+20-Mar,Jusuf Nurkic,21,11,3,2,4,2,5,27,Trailblazers 
+20-Mar,CJ Mccollum,8,2,3,0,0,0,1,34,Trailblazers 
+20-Mar,Damian Lillard,20,4,6,1,0,1,3,36,Trailblazers 
+20-Mar,Evan Tuner,10,3,3,0,0,0,0,21,Trailblazers 
+20-Mar,Pat Connaughton,3,1,0,1,0,1,1,10,Trailblazers 
+20-Mar,Ed Davis,3,10,0,0,0,1,0,22,Trailblazers 
+20-Mar,Zach Collins,4,3,0,0,0,2,0,14,Trailblazers 
+20-Mar,Shabazz Napier,3,1,0,1,0,0,0,18,Trailblazers 
+20-Mar,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+20-Mar,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+20-Mar,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+20-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+20-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+9-Mar,Maurice Harkless,6,1,0,1,0,0,3,21,Trailblazers 
+9-Mar,Al Farouq Aminu,4,5,2,1,0,1,1,22,Trailblazers 
+9-Mar,Jusuf Nurkic,10,11,1,0,0,3,2,22,Trailblazers 
+9-Mar,CJ Mccollum,30,4,1,0,1,1,1,38,Trailblazers 
+9-Mar,Damian Lillard,28,4,8,0,0,3,2,37,Trailblazers 
+9-Mar,Evan Tuner,12,1,3,0,0,0,2,27,Trailblazers 
+9-Mar,Ed Davis,10,15,4,1,1,1,1,26,Trailblazers 
+9-Mar,Zach Collins,12,4,1,1,0,1,3,27,Trailblazers 
+9-Mar,Pat Connaughton,3,0,0,0,0,0,0,7,Trailblazers 
+9-Mar,Shabazz Napier,10,1,0,0,0,1,1,16,Trailblazers 
+9-Mar,Jake Layman,0,0,0,0,0,0,0,2,Trailblazers 
+9-Mar,Caleb Swanigan,0,0,1,0,0,0,1,2,Trailblazers 
+9-Mar,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+9-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+9-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+3-Mar,Evan Tuner,17,3,2,0,1,1,3,34,Trailblazers 
+3-Mar,Al Farouq Aminu,3,6,0,1,0,1,2,19,Trailblazers 
+3-Mar,Jusuf Nurkic,9,7,1,0,0,3,4,18,Trailblazers 
+3-Mar,CJ Mccollum,28,8,6,1,2,2,1,39,Trailblazers 
+3-Mar,Damian Lillard,20,1,7,1,1,3,2,38,Trailblazers 
+3-Mar,Pat Connaughton,6,4,2,2,1,1,2,25,Trailblazers 
+3-Mar,Ed Davis,6,10,0,0,1,1,4,20,Trailblazers 
+3-Mar,Zach Collins,12,5,1,0,2,2,2,28,Trailblazers 
+3-Mar,Shabazz Napier,7,1,1,0,0,1,0,14,Trailblazers 
+3-Mar,Meyers Leonard,0,2,0,1,0,0,1,10,Trailblazers 
+3-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+3-Mar,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+3-Mar,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+3-Mar,Maurice Harkless,0,0,0,0,0,0,0,0,Trailblazers 
+3-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+1-Mar,Maurice Harkless,0,1,0,1,0,0,0,9,Trailblazers 
+1-Mar,Al Farouq Aminu,10,12,1,1,1,2,3,30,Trailblazers 
+1-Mar,Jusuf Nurkic,16,6,0,1,1,2,3,19,Trailblazers 
+1-Mar,CJ Mccollum,19,4,2,1,1,1,1,39,Trailblazers 
+1-Mar,Damian Lillard,35,7,4,1,0,1,1,38,Trailblazers 
+1-Mar,Evan Tuner,0,1,6,0,0,0,2,13,Trailblazers 
+1-Mar,Pat Connaughton,0,1,1,1,0,0,1,13,Trailblazers 
+1-Mar,Ed Davis,10,11,1,0,2,1,3,29,Trailblazers 
+1-Mar,Zach Collins,2,2,0,1,1,0,3,20,Trailblazers 
+1-Mar,Shabazz Napier,16,3,2,2,0,1,1,27,Trailblazers 
+1-Mar,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+1-Mar,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+1-Mar,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+1-Mar,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+1-Mar,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+23-Feb,Maurice Harkless,6,3,2,6,1,1,3,26,Trailblazers 
+23-Feb,Al Farouq Aminu,12,8,0,1,0,1,3,34,Trailblazers 
+23-Feb,Jusuf Nurkic,15,7,2,0,3,2,4,27,Trailblazers 
+23-Feb,CJ Mccollum,26,3,2,0,0,1,3,37,Trailblazers 
+23-Feb,Damian Lillard,24,4,3,1,0,4,0,37,Trailblazers 
+23-Feb,Evan Tuner,2,2,3,0,0,1,3,23,Trailblazers 
+23-Feb,Pat Connaughton,0,0,0,0,0,0,0,5,Trailblazers 
+23-Feb,Ed Davis,6,8,0,1,0,0,2,21,Trailblazers 
+23-Feb,Zach Collins,4,4,1,0,1,1,1,16,Trailblazers 
+23-Feb,Shabazz Napier,5,1,1,2,0,1,1,19,Trailblazers 
+23-Feb,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+23-Feb,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+23-Feb,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+23-Feb,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+23-Feb,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+14-Feb,Maurice Harkless,3,3,3,1,0,2,3,28,Trailblazers 
+14-Feb,Al Farouq Aminu,9,11,2,3,0,2,2,36,Trailblazers 
+14-Feb,Jusuf Nurkic,17,13,3,1,0,0,4,30,Trailblazers 
+14-Feb,CJ Mccollum,29,5,2,0,0,2,3,40,Trailblazers 
+14-Feb,Damian Lillard,44,3,8,2,0,4,3,41,Trailblazers 
+14-Feb,Evan Tuner,6,6,1,1,0,2,1,18,Trailblazers 
+14-Feb,Pat Connaughton,4,1,0,0,0,0,0,11,Trailblazers 
+14-Feb,Ed Davis,0,4,0,1,0,0,0,14,Trailblazers 
+14-Feb,Shabazz Napier,8,2,0,0,0,0,1,21,Trailblazers 
+14-Feb,Zach Collins,3,1,1,0,0,1,1,6,Trailblazers 
+14-Feb,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+14-Feb,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+14-Feb,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+14-Feb,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+14-Feb,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+24-Jan,Evan Tuner,9,0,6,2,0,0,0,27,Trailblazers 
+24-Jan,Al Farouq Aminu,15,7,0,2,0,2,0,26,Trailblazers 
+24-Jan,Jusuf Nurkic,6,3,0,0,0,1,4,20,Trailblazers 
+24-Jan,CJ Mccollum,28,3,5,0,0,0,0,35,Trailblazers 
+24-Jan,Damian Lillard,31,4,6,0,0,0,2,32,Trailblazers 
+24-Jan,Pat Connaughton,12,3,2,0,1,1,3,24,Trailblazers 
+24-Jan,Shabazz Napier,3,1,3,0,0,3,1,24,Trailblazers 
+24-Jan,Ed Davis,11,10,2,0,0,0,2,26,Trailblazers 
+24-Jan,Zach Collins,8,5,0,0,0,1,1,20,Trailblazers 
+24-Jan,Maurice Harkless,0,0,0,0,0,0,1,4,Trailblazers 
+24-Jan,Jake Layman,0,0,0,0,0,0,1,4,Trailblazers 
+24-Jan,Meyers Leonard,0,1,0,0,0,1,0,4,Trailblazers 
+24-Jan,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+24-Jan,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+24-Jan,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Shabazz Napier,17,6,6,2,0,2,1,37,Trailblazers 
+12-Jan,Al Farouq Aminu,19,11,0,3,0,0,2,36,Trailblazers 
+12-Jan,Jusuf Nurkic,19,5,2,1,3,3,3,31,Trailblazers 
+12-Jan,CJ Mccollum,23,4,4,1,1,1,2,37,Trailblazers 
+12-Jan,Damian Lillard,23,2,8,3,0,2,3,38,Trailblazers 
+12-Jan,Pat Connaughton,2,3,2,1,1,0,2,17,Trailblazers 
+12-Jan,Maurice Harkless,4,3,1,1,1,2,2,21,Trailblazers 
+12-Jan,Ed Davis,2,1,1,1,0,0,2,19,Trailblazers 
+12-Jan,Zach Collins,4,4,0,0,0,1,5,12,Trailblazers 
+12-Jan,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Evan Tuner,0,0,0,0,0,0,0,0,Trailblazers 
+12-Jan,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Evan Tuner,8,1,1,0,1,2,0,25,Trailblazers 
+7-Jan,Al Farouq Aminu,9,1,1,2,0,0,2,33,Trailblazers 
+7-Jan,Jusuf Nurkic,17,13,1,0,1,1,4,32,Trailblazers 
+7-Jan,CJ Mccollum,25,5,7,2,0,0,2,38,Trailblazers 
+7-Jan,Shabazz Napier,15,5,7,2,1,3,4,33,Trailblazers 
+7-Jan,Pat Connaughton,9,0,2,0,0,1,4,25,Trailblazers 
+7-Jan,Ed Davis,0,5,0,0,0,1,5,18,Trailblazers 
+7-Jan,Zach Collins,9,3,0,0,0,0,0,16,Trailblazers 
+7-Jan,Maurice Harkless,19,5,0,1,2,1,3,24,Trailblazers 
+7-Jan,Jake Layman,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Meyers Leonard,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Caleb Swanigan,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Georgios Papagiannis,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Damian Lillard,0,0,0,0,0,0,0,0,Trailblazers 
+7-Jan,Wade Baldwin IV,0,0,0,0,0,0,0,0,Trailblazers 
+25-Apr,Paul George,34,8,2,2,1,2,5,46,Thunders
+25-Apr,Carmelo Anthony,7,5,0,2,0,0,2,25,Thunders
+25-Apr,Steven Adams,6,6,1,2,0,0,1,42,Thunders
+25-Apr,Corey Brewer,5,3,1,0,0,0,3,23,Thunders
+25-Apr,Russell Westbrook,45,15,7,0,0,5,3,44,Thunders
+25-Apr,Jerami Grant,4,2,0,1,0,0,1,23,Thunders
+25-Apr,Josh Huestis,1,0,0,0,1,0,1,3,Thunders
+25-Apr,Alex Abrines,3,4,1,2,1,0,2,26,Thunders
+25-Apr,Raymond Felton,2,1,1,0,0,1,1,4,Thunders
+25-Apr,Patrick Patterson,0,0,0,0,0,0,2,8,Thunders
+25-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+25-Apr,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+25-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+23-Apr,Paul George,32,6,2,2,0,6,3,41,Thunders
+23-Apr,Carmelo Anthony,11,6,0,1,2,1,2,36,Thunders
+23-Apr,Steven Adams,9,7,1,0,2,0,0,35,Thunders
+23-Apr,Corey Brewer,3,0,0,1,1,0,3,22,Thunders
+23-Apr,Russell Westbrook,23,14,3,0,0,5,5,37,Thunders
+23-Apr,Patrick Patterson,0,4,2,0,0,0,1,12,Thunders
+23-Apr,Raymond Felton,2,1,1,1,0,2,3,16,Thunders
+23-Apr,Alex Abrines,10,3,0,2,0,0,1,16,Thunders
+23-Apr,Jerami Grant,6,3,1,1,1,0,3,18,Thunders
+23-Apr,Josh Huestis,0,2,0,0,0,0,0,7,Thunders
+23-Apr,Terrance Ferguson,0,0,0,0,0,0,0,1,Thunders
+23-Apr,Dakari Johnson,0,0,0,0,0,0,0,1,Thunders
+23-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+21-Apr,Paul George,23,2,3,2,0,3,2,40,Thunders
+21-Apr,Carmelo Anthony,14,4,0,3,0,0,3,31,Thunders
+21-Apr,Steven Adams,8,2,0,0,1,1,4,26,Thunders
+21-Apr,Corey Brewer,9,6,1,1,1,1,4,29,Thunders
+21-Apr,Russell Westbrook,14,11,9,2,0,8,2,37,Thunders
+21-Apr,Patrick Patterson,8,3,0,1,0,3,3,21,Thunders
+21-Apr,Alex Abrines,0,0,1,0,0,0,2,14,Thunders
+21-Apr,Raymond Felton,14,1,2,1,1,0,0,21,Thunders
+21-Apr,Jerami Grant,7,3,0,1,0,1,3,18,Thunders
+21-Apr,Terrance Ferguson,3,1,1,0,0,0,0,2,Thunders
+21-Apr,Josh Huestis,2,0,0,0,0,0,0,3,Thunders
+21-Apr,Dakari Johnson,0,0,0,0,0,0,0,3,Thunders
+21-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+18-Apr,Paul George,18,10,1,0,3,3,2,43,Thunders
+18-Apr,Carmelo Anthony,17,9,0,1,0,1,3,39,Thunders
+18-Apr,Steven Adams,9,7,1,1,0,2,6,22,Thunders
+18-Apr,Corey Brewer,11,1,2,3,1,0,2,30,Thunders
+18-Apr,Russell Westbrook,19,9,13,4,0,3,4,37,Thunders
+18-Apr,Jerami Grant,13,6,1,0,0,3,3,30,Thunders
+18-Apr,Alex Abrines,0,0,0,0,0,0,3,16,Thunders
+18-Apr,Raymond Felton,8,2,3,2,0,1,1,15,Thunders
+18-Apr,Patrick Patterson,0,2,1,0,0,0,1,10,Thunders
+18-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+18-Apr,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+18-Apr,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+18-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+15-Apr,Paul George,36,7,0,1,0,4,2,39,Thunders
+15-Apr,Carmelo Anthony,15,7,2,3,2,3,2,37,Thunders
+15-Apr,Steven Adams,12,7,3,0,0,0,1,38,Thunders
+15-Apr,Corey Brewer,7,3,1,2,1,1,3,35,Thunders
+15-Apr,Russell Westbrook,29,13,8,1,0,5,4,37,Thunders
+15-Apr,Alex Abrines,11,2,0,0,0,1,2,21,Thunders
+15-Apr,Terrance Ferguson,0,0,0,0,0,0,2,2,Thunders
+15-Apr,Raymond Felton,2,1,0,0,1,1,1,13,Thunders
+15-Apr,Jerami Grant,4,4,2,1,1,2,1,14,Thunders
+15-Apr,Patrick Patterson,0,2,0,0,0,0,1,9,Thunders
+15-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+15-Apr,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+15-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+7-Apr,Paul George,24,6,4,2,0,5,4,42,Thunders
+7-Apr,Carmelo Anthony,22,6,1,0,1,1,0,36,Thunders
+7-Apr,Steven Adams,12,8,3,1,0,1,1,30,Thunders
+7-Apr,Corey Brewer,6,2,1,1,0,0,3,23,Thunders
+7-Apr,Russell Westbrook,24,7,10,4,1,4,4,39,Thunders
+7-Apr,Alex Abrines,4,5,1,2,0,0,3,27,Thunders
+7-Apr,Raymond Felton,0,1,1,0,1,1,2,16,Thunders
+7-Apr,Patrick Patterson,4,2,0,1,0,0,2,13,Thunders
+7-Apr,Jerami Grant,12,5,0,0,2,0,1,20,Thunders
+7-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+7-Apr,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+7-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+7-Apr,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+3-Apr,Paul George,20,8,2,0,0,3,2,37,Thunders
+3-Apr,Carmelo Anthony,12,8,2,0,0,1,4,36,Thunders
+3-Apr,Steven Adams,7,13,2,0,0,5,5,34,Thunders
+3-Apr,Corey Brewer,10,6,1,5,0,0,1,26,Thunders
+3-Apr,Russell Westbrook,44,16,6,2,0,6,3,42,Thunders
+3-Apr,Alex Abrines,8,0,0,0,0,0,2,19,Thunders
+3-Apr,Josh Huestis,1,1,0,0,0,0,1,12,Thunders
+3-Apr,Raymond Felton,0,2,0,1,1,1,2,12,Thunders
+3-Apr,Jerami Grant,5,2,0,0,2,0,0,15,Thunders
+3-Apr,Patrick Patterson,0,2,0,0,0,0,0,13,Thunders
+3-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+3-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+3-Apr,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+1-Apr,Paul George,27,8,2,3,0,1,3,38,Thunders
+1-Apr,Carmelo Anthony,16,6,1,0,0,3,4,30,Thunders
+1-Apr,Steven Adams,14,10,1,0,1,6,2,37,Thunders
+1-Apr,Corey Brewer,4,5,1,3,0,1,2,30,Thunders
+1-Apr,Russell Westbrook,26,15,13,2,0,7,5,38,Thunders
+1-Apr,Alex Abrines,3,1,0,0,0,0,3,23,Thunders
+1-Apr,Jerami Grant,12,1,0,1,2,0,1,17,Thunders
+1-Apr,Raymond Felton,4,3,5,2,0,0,2,19,Thunders
+1-Apr,Patrick Patterson,3,2,1,2,1,0,0,14,Thunders
+1-Apr,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+1-Apr,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+1-Apr,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+1-Apr,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+29-Mar,Paul George,26,7,6,4,0,3,3,40,Thunders
+29-Mar,Carmelo Anthony,9,3,2,2,1,0,2,33,Thunders
+29-Mar,Steven Adams,10,13,1,0,0,2,3,37,Thunders
+29-Mar,Corey Brewer,14,2,3,2,0,1,4,30,Thunders
+29-Mar,Russell Westbrook,19,11,5,3,1,7,5,39,Thunders
+29-Mar,Terrance Ferguson,3,0,1,0,0,0,2,15,Thunders
+29-Mar,Raymond Felton,10,3,1,0,0,1,2,17,Thunders
+29-Mar,Jerami Grant,0,3,0,0,1,1,2,14,Thunders
+29-Mar,Patrick Patterson,7,1,0,0,0,0,0,12,Thunders
+29-Mar,Alex Abrines,1,0,0,0,0,0,0,9,Thunders
+29-Mar,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+29-Mar,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+29-Mar,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+25-Mar,Paul George,16,2,2,1,1,2,2,40,Thunders
+25-Mar,Carmelo Anthony,6,8,1,0,1,1,2,29,Thunders
+25-Mar,Steven Adams,18,10,1,0,2,2,2,37,Thunders
+25-Mar,Corey Brewer,6,3,0,0,0,1,4,28,Thunders
+25-Mar,Russell Westbrook,13,5,9,4,0,3,6,37,Thunders
+25-Mar,Terrance Ferguson,2,1,0,1,0,0,0,17,Thunders
+25-Mar,Jerami Grant,17,3,1,0,1,0,1,20,Thunders
+25-Mar,Raymond Felton,11,0,1,2,0,1,0,19,Thunders
+25-Mar,Patrick Patterson,3,2,0,1,0,0,1,12,Thunders
+25-Mar,Alex Abrines,3,2,1,0,0,0,1,9,Thunders
+25-Mar,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+25-Mar,Josh Huestis,0,0,0,0,0,0,0,0,Thunders
+25-Mar,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+10-Mar,Paul George,11,10,5,1,2,4,3,38,Thunders
+10-Mar,Carmelo Anthony,2,7,2,1,1,2,1,33,Thunders
+10-Mar,Steven Adams,8,1,0,1,0,2,4,17,Thunders
+10-Mar,Corey Brewer,12,3,0,1,1,0,1,31,Thunders
+10-Mar,Russell Westbrook,21,12,10,1,0,5,1,37,Thunders
+10-Mar,Jerami Grant,15,8,0,0,0,0,0,20,Thunders
+10-Mar,Raymond Felton,2,0,5,1,0,1,0,12,Thunders
+10-Mar,Patrick Patterson,10,4,2,1,0,0,0,22,Thunders
+10-Mar,Alex Abrines,11,2,0,0,0,0,1,19,Thunders
+10-Mar,Josh Huestis,5,1,0,1,0,0,1,13,Thunders
+10-Mar,Nick Collison,7,2,0,0,0,1,1,6,Thunders
+10-Mar,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+10-Mar,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+6-Mar,Paul George,17,4,5,3,0,1,4,38,Thunders
+6-Mar,Carmelo Anthony,23,4,0,1,0,3,2,34,Thunders
+6-Mar,Steven Adams,16,8,1,3,0,3,3,38,Thunders
+6-Mar,Josh Huestis,3,3,1,0,2,0,1,19,Thunders
+6-Mar,Russell Westbrook,32,4,7,1,1,9,4,39,Thunders
+6-Mar,Corey Brewer,10,0,0,0,0,1,6,23,Thunders
+6-Mar,Jerami Grant,3,4,3,1,0,1,3,20,Thunders
+6-Mar,Raymond Felton,8,1,1,2,0,1,3,13,Thunders
+6-Mar,Patrick Patterson,0,5,0,1,0,0,1,12,Thunders
+6-Mar,Terrance Ferguson,0,0,0,1,0,0,1,9,Thunders
+6-Mar,Alex Abrines,0,0,0,0,0,0,0,0,Thunders
+6-Mar,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+6-Mar,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+3-Mar,Paul George,21,7,4,0,1,3,2,37,Thunders
+3-Mar,Patrick Patterson,12,6,0,0,1,1,2,33,Thunders
+3-Mar,Steven Adams,12,7,1,2,1,1,4,36,Thunders
+3-Mar,Josh Huestis,3,2,1,0,0,1,1,23,Thunders
+3-Mar,Russell Westbrook,30,11,6,0,1,4,4,36,Thunders
+3-Mar,Corey Brewer,0,1,1,2,0,1,4,13,Thunders
+3-Mar,Jerami Grant,13,4,2,0,2,1,2,26,Thunders
+3-Mar,Raymond Felton,9,1,2,1,0,0,1,24,Thunders
+3-Mar,Alex Abrines,0,1,1,1,0,0,1,16,Thunders
+3-Mar,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+3-Mar,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+3-Mar,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+3-Mar,Carmelo Anthony,0,0,0,0,0,0,0,0,Thunders
+24-Feb,Paul George,5,5,3,2,0,1,4,34,Thunders
+24-Feb,Carmelo Anthony,14,5,1,1,0,2,3,30,Thunders
+24-Feb,Steven Adams,14,7,3,2,2,1,2,35,Thunders
+24-Feb,Josh Huestis,5,4,2,0,0,2,1,21,Thunders
+24-Feb,Russell Westbrook,15,12,7,2,0,5,1,31,Thunders
+24-Feb,Jerami Grant,6,2,0,0,1,1,1,22,Thunders
+24-Feb,Alex Abrines,3,1,1,0,0,0,2,20,Thunders
+24-Feb,Patrick Patterson,0,2,0,1,0,0,0,23,Thunders
+24-Feb,Raymond Felton,11,1,0,0,0,2,3,13,Thunders
+24-Feb,Nick Collison,2,3,1,0,0,1,0,6,Thunders
+24-Feb,Terrance Ferguson,5,0,0,0,0,0,0,4,Thunders
+24-Feb,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+24-Feb,Corey Brewer,0,0,0,0,0,0,0,0,Thunders
+2-Feb,Paul George,15,4,3,2,0,2,1,39,Thunders
+2-Feb,Carmelo Anthony,13,9,0,1,1,3,2,33,Thunders
+2-Feb,Steven Adams,23,12,0,0,2,2,2,37,Thunders
+2-Feb,Terrance Ferguson,2,0,0,0,0,0,0,12,Thunders
+2-Feb,Russell Westbrook,16,10,14,1,0,9,3,36,Thunders
+2-Feb,Alex Abrines,14,1,0,0,0,0,3,25,Thunders
+2-Feb,Raymond Felton,5,1,4,1,1,0,2,16,Thunders
+2-Feb,Jerami Grant,12,12,1,0,0,0,4,23,Thunders
+2-Feb,Josh Huestis,0,0,1,0,1,0,1,11,Thunders
+2-Feb,Patrick Patterson,0,3,1,1,0,0,0,14,Thunders
+2-Feb,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+2-Feb,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+2-Feb,Corey Brewer,0,0,0,0,0,0,0,0,Thunders
+10-Jan,Paul George,13,6,4,0,1,4,5,38,Thunders
+10-Jan,Carmelo Anthony,15,1,0,0,0,2,3,32,Thunders
+10-Jan,Steven Adams,8,8,0,2,0,3,3,35,Thunders
+10-Jan,Terrance Ferguson,8,1,1,1,0,0,3,23,Thunders
+10-Jan,Russell Westbrook,38,10,5,4,0,4,0,35,Thunders
+10-Jan,Jerami Grant,0,5,1,0,0,1,5,19,Thunders
+10-Jan,Josh Huestis,2,4,0,0,1,0,1,19,Thunders
+10-Jan,Patrick Patterson,0,4,1,0,0,1,0,13,Thunders
+10-Jan,Raymond Felton,7,1,1,1,0,4,1,18,Thunders
+10-Jan,Alex Abrines,0,0,0,1,0,0,0,4,Thunders
+10-Jan,Dakari Johnson,0,1,0,0,0,0,0,3,Thunders
+10-Jan,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+10-Jan,Corey Brewer,0,0,0,0,0,0,0,0,Thunders
+23-Dec,Paul George,26,5,1,6,2,2,2,37,Thunders
+23-Dec,Carmelo Anthony,16,6,3,0,0,1,2,35,Thunders
+23-Dec,Steven Adams,12,9,0,1,1,0,1,33,Thunders
+23-Dec,Corey Brewer,0,3,1,0,0,0,2,25,Thunders
+23-Dec,Russell Westbrook,27,10,10,1,1,2,3,38,Thunders
+23-Dec,Josh Huestis,2,3,0,0,0,1,1,15,Thunders
+23-Dec,Alex Abrines,3,3,0,1,0,0,3,16,Thunders
+23-Dec,Jerami Grant,2,4,1,0,1,1,1,19,Thunders
+23-Dec,Raymond Felton,6,0,1,0,0,0,1,13,Thunders
+23-Dec,Patrick Patterson,9,2,1,0,0,0,0,11,Thunders
+23-Dec,Nick Collison,0,0,0,0,0,0,0,0,Thunders
+23-Dec,Terrance Ferguson,0,0,0,0,0,0,0,0,Thunders
+23-Dec,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+20-Dec,Paul George,18,4,4,2,1,2,3,30,Thunders
+20-Dec,Carmelo Anthony,18,7,2,0,0,1,2,27,Thunders
+20-Dec,Steven Adams,11,9,3,0,0,1,2,27,Thunders
+20-Dec,Corey Brewer,6,2,1,2,1,0,2,23,Thunders
+20-Dec,Russell Westbrook,24,10,7,4,0,1,2,27,Thunders
+20-Dec,Alex Abrines,3,2,1,1,0,1,1,24,Thunders
+20-Dec,Jerami Grant,11,1,0,1,2,1,4,19,Thunders
+20-Dec,Josh Huestis,0,1,0,0,1,1,3,19,Thunders
+20-Dec,Raymond Felton,7,1,2,3,0,0,0,18,Thunders
+20-Dec,Patrick Patterson,3,3,1,1,0,3,4,15,Thunders
+20-Dec,Nick Collison,2,1,0,0,0,0,0,7,Thunders
+20-Dec,Terrance Ferguson,2,0,0,1,0,1,2,7,Thunders
+20-Dec,Dakari Johnson,2,1,2,0,0,1,1,5,Thunders
+1-Dec,Paul George,36,4,9,0,3,2,4,42,Thunders
+1-Dec,Carmelo Anthony,9,6,1,0,0,1,3,29,Thunders
+1-Dec,Steven Adams,27,6,0,1,1,1,5,32,Thunders
+1-Dec,Corey Brewer,6,6,0,2,2,4,5,33,Thunders
+1-Dec,Russell Westbrook,15,9,14,2,0,7,2,38,Thunders
+1-Dec,Jerami Grant,9,3,1,1,2,0,1,26,Thunders
+1-Dec,Josh Huestis,3,1,0,0,0,0,2,13,Thunders
+1-Dec,Terrance Ferguson,0,0,0,0,0,0,0,4,Thunders
+1-Dec,Patrick Patterson,0,5,1,1,0,1,1,15,Thunders
+1-Dec,Raymond Felton,4,1,1,0,0,1,0,11,Thunders
+1-Dec,Nick Collison,2,1,1,0,0,1,1,2,Thunders
+1-Dec,Alex Abrines,0,0,0,0,0,0,0,0,Thunders
+1-Dec,Dakari Johnson,0,0,0,0,0,0,0,0,Thunders
+24-Apr,LaMarcus Aldridge,30,12,4,1,0,2,3,40,Spurs
+24-Apr,Kyle Anderson,10,4,0,3,0,3,3,16,Spurs
+24-Apr,Davis Bertans,3,2,3,1,0,0,1,15,Spurs
+24-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+24-Apr,Bryn Forbes,0,0,1,0,0,0,1,7,Spurs
+24-Apr,Pau Gasol,1,6,3,0,0,1,0,17,Spurs
+24-Apr,Rudy Gay,9,4,2,0,0,2,4,32,Spurs
+24-Apr,Manu Ginobili,10,5,7,0,0,2,3,24,Spurs
+24-Apr,Danny Green,0,1,0,0,0,1,1,15,Spurs
+24-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+24-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+24-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+24-Apr,Patty Mills,18,5,0,0,0,1,3,36,Spurs
+24-Apr,Dejounte Murray,6,8,0,0,0,0,2,18,Spurs
+24-Apr,Tony Parker,4,1,1,0,0,1,1,14,Spurs
+24-Apr,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+24-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+22-Apr,LaMarcus Aldridge,22,10,0,1,1,1,2,37,Spurs
+22-Apr,Kyle Anderson,10,3,0,0,1,0,2,18,Spurs
+22-Apr,Davis Bertans,0,0,0,0,0,1,1,2,Spurs
+22-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Bryn Forbes,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Pau Gasol,5,5,4,0,0,1,0,19,Spurs
+22-Apr,Rudy Gay,14,7,2,2,0,1,3,37,Spurs
+22-Apr,Manu Ginobili,16,3,5,0,0,1,3,25,Spurs
+22-Apr,Danny Green,6,2,0,0,1,0,2,20,Spurs
+22-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Patty Mills,9,0,5,1,0,1,4,36,Spurs
+22-Apr,Dejounte Murray,12,4,2,1,1,1,1,26,Spurs
+22-Apr,Tony Parker,9,0,2,1,0,1,0,16,Spurs
+22-Apr,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+22-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Danny Green,6,2,0,0,1,0,2,20,Spurs
+19-Apr,Rudy Gay,14,7,2,2,0,1,3,37,Spurs
+19-Apr,LaMarcus Aldridge,22,10,0,1,1,1,2,37,Spurs
+19-Apr,Patty Mills,9,0,5,1,0,1,4,36,Spurs
+19-Apr,Dejounte Murray,12,4,2,1,1,1,1,26,Spurs
+19-Apr,Manu Ginobili,16,3,5,0,0,1,3,25,Spurs
+19-Apr,Kyle Anderson,10,3,0,0,1,0,2,18,Spurs
+19-Apr,Pau Gasol,5,5,4,0,0,1,3,19,Spurs
+19-Apr,Tony Parker,9,0,2,1,0,1,0,16,Spurs
+19-Apr,Davis Bertans,0,0,0,0,0,1,1,2,Spurs
+19-Apr,Bryn Forbes,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+19-Apr,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+16-Apr,Danny Green,0,2,1,1,1,0,2,24,Spurs
+16-Apr,Rudy Gay,12,5,3,3,1,2,3,36,Spurs
+16-Apr,LaMarcus Aldridge,34,12,3,0,0,2,1,37,Spurs
+16-Apr,Patty Mills,21,3,3,0,0,3,4,32,Spurs
+16-Apr,Dejounte Murray,4,2,0,2,0,1,1,12,Spurs
+16-Apr,Manu Ginobili,10,2,3,2,0,0,3,22,Spurs
+16-Apr,Kyle Anderson,1,1,0,2,0,0,1,9,Spurs
+16-Apr,Pau Gasol,12,4,3,0,0,0,2,15,Spurs
+16-Apr,Tony Parker,2,1,0,0,0,1,1,6,Spurs
+16-Apr,Davis Bertans,5,3,0,0,0,0,2,25,Spurs
+16-Apr,Bryn Forbes,0,0,0,0,0,0,1,13,Spurs
+16-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+16-Apr,Derrick White,0,0,0,0,0,0,0,2,Spurs
+16-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+16-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+16-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+16-Apr,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+14-Apr,Danny Green,6,2,0,0,1,1,3,21,Spurs
+14-Apr,Rudy Gay,15,6,2,2,0,1,2,21,Spurs
+14-Apr,LaMarcus Aldridge,14,2,1,1,1,2,3,24,Spurs
+14-Apr,Patty Mills,5,0,3,0,0,1,1,26,Spurs
+14-Apr,Dejounte Murray,8,5,3,1,1,2,5,22,Spurs
+14-Apr,Manu Ginobili,9,3,1,3,0,3,1,16,Spurs
+14-Apr,Kyle Anderson,0,3,1,0,0,0,2,10,Spurs
+14-Apr,Pau Gasol,6,2,4,0,0,2,0,19,Spurs
+14-Apr,Tony Parker,2,1,1,0,0,0,0,13,Spurs
+14-Apr,Davis Bertans,4,2,1,1,0,0,3,18,Spurs
+14-Apr,Bryn Forbes,14,3,1,0,0,0,0,24,Spurs
+14-Apr,Joffrey Lauvergne,2,1,0,0,0,0,0,5,Spurs
+14-Apr,Derrick White,7,0,1,1,1,0,0,13,Spurs
+14-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+14-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+14-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+14-Apr,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+11-Apr,Danny Green,8,4,2,2,0,3,2,20,Spurs
+11-Apr,Rudy Gay,8,7,2,1,0,3,1,23,Spurs
+11-Apr,LaMarcus Aldridge,11,5,0,1,0,1,2,22,Spurs
+11-Apr,Patty Mills,0,0,2,0,0,3,0,20,Spurs
+11-Apr,Dejounte Murray,11,6,3,2,1,0,1,29,Spurs
+11-Apr,Manu Ginobili,6,2,3,0,0,3,3,11,Spurs
+11-Apr,Kyle Anderson,10,0,2,2,0,0,1,17,Spurs
+11-Apr,Pau Gasol,6,7,4,0,0,0,3,14,Spurs
+11-Apr,Tony Parker,11,2,1,0,0,2,1,20,Spurs
+11-Apr,Davis Bertans,4,2,0,0,0,1,2,10,Spurs
+11-Apr,Bryn Forbes,10,1,0,1,0,0,1,23,Spurs
+11-Apr,Joffrey Lauvergne,3,1,3,0,0,0,0,9,Spurs
+11-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+11-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+11-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+11-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+11-Apr,Brandon Paul,10,1,0,0,0,1,0,15,Spurs
+7-Apr,Danny Green,4,3,0,1,0,0,0,13,Spurs
+7-Apr,Rudy Gay,16,4,3,0,1,0,2,26,Spurs
+7-Apr,LaMarcus Aldridge,28,8,1,4,0,2,1,37,Spurs
+7-Apr,Patty Mills,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Dejounte Murray,17,5,4,2,0,2,2,29,Spurs
+7-Apr,Manu Ginobili,17,3,1,1,0,0,1,19,Spurs
+7-Apr,Kyle Anderson,7,5,3,2,1,0,2,28,Spurs
+7-Apr,Pau Gasol,9,5,3,1,1,0,1,25,Spurs
+7-Apr,Tony Parker,2,1,0,0,0,2,0,11,Spurs
+7-Apr,Davis Bertans,3,0,0,0,0,0,0,1,Spurs
+7-Apr,Bryn Forbes,0,1,0,0,0,0,0,12,Spurs
+7-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+7-Apr,Brandon Paul,0,0,0,0,0,0,0,1,Spurs
+1-Apr,Danny Green,12,7,0,2,2,1,4,29,Spurs
+1-Apr,Rudy Gay,21,3,0,2,1,0,3,23,Spurs
+1-Apr,LaMarcus Aldridge,23,14,2,0,3,1,3,35,Spurs
+1-Apr,Patty Mills,14,5,4,0,0,0,3,37,Spurs
+1-Apr,Dejounte Murray,13,6,1,1,0,2,2,24,Spurs
+1-Apr,Manu Ginobili,6,2,4,1,0,2,0,20,Spurs
+1-Apr,Kyle Anderson,5,1,5,2,1,0,0,25,Spurs
+1-Apr,Pau Gasol,2,8,0,0,1,1,1,10,Spurs
+1-Apr,Tony Parker,4,1,3,0,0,1,3,13,Spurs
+1-Apr,Davis Bertans,0,0,0,0,0,0,0,2,Spurs
+1-Apr,Bryn Forbes,0,0,0,0,0,0,0,12,Spurs
+1-Apr,Joffrey Lauvergne,0,0,0,0,0,0,0,2,Spurs
+1-Apr,Derrick White,0,0,0,0,0,0,0,0,Spurs
+1-Apr,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+1-Apr,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+1-Apr,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+1-Apr,Brandon Paul,0,0,0,0,0,0,0,2,Spurs
+29-Mar,Danny Green,11,4,0,0,1,0,2,26,Spurs
+29-Mar,Rudy Gay,9,8,0,2,0,3,2,24,Spurs
+29-Mar,LaMarcus Aldridge,25,11,2,0,2,4,2,34,Spurs
+29-Mar,Patty Mills,14,1,1,1,0,5,2,33,Spurs
+29-Mar,Dejounte Murray,7,8,7,5,1,2,2,30,Spurs
+29-Mar,Manu Ginobili,10,3,0,2,0,1,1,14,Spurs
+29-Mar,Kyle Anderson,10,0,2,2,0,0,4,23,Spurs
+29-Mar,Pau Gasol,6,12,3,0,1,0,2,25,Spurs
+29-Mar,Tony Parker,8,0,4,1,0,1,1,17,Spurs
+29-Mar,Davis Bertans,3,1,3,0,1,0,0,9,Spurs
+29-Mar,Bryn Forbes,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+29-Mar,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Danny Green,5,4,0,0,2,0,6,24,Spurs
+23-Mar,LaMarcus Aldridge,45,9,2,1,3,4,3,41,Spurs
+23-Mar,Patty Mills,25,2,4,0,0,1,3,40,Spurs
+23-Mar,Dejounte Murray,4,5,5,2,0,2,4,34,Spurs
+23-Mar,Manu Ginobili,18,5,3,0,0,0,3,27,Spurs
+23-Mar,Kyle Anderson,5,7,3,4,1,3,0,25,Spurs
+23-Mar,Rudy Gay,15,5,1,0,0,0,1,24,Spurs
+23-Mar,Pau Gasol,4,8,1,1,1,1,3,11,Spurs
+23-Mar,Tony Parker,0,1,2,0,0,0,2,13,Spurs
+23-Mar,Davis Bertans,3,2,0,1,0,2,0,7,Spurs
+23-Mar,Bryn Forbes,0,1,0,0,0,0,0,13,Spurs
+23-Mar,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+23-Mar,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+19-Mar,Danny Green,11,3,2,0,0,2,5,30,Spurs
+19-Mar,Kyle Anderson,0,10,4,1,0,2,1,22,Spurs
+19-Mar,LaMarcus Aldridge,33,12,1,1,2,1,2,34,Spurs
+19-Mar,Patty Mills,12,3,2,1,1,3,2,34,Spurs
+19-Mar,Dejounte Murray,9,8,5,1,0,1,1,29,Spurs
+19-Mar,Pau Gasol,4,4,0,0,0,0,1,16,Spurs
+19-Mar,Rudy Gay,9,4,1,1,1,3,3,12,Spurs
+19-Mar,Tony Parker,1,1,2,0,0,0,2,13,Spurs
+19-Mar,Manu Ginobili,3,2,3,0,0,1,1,20,Spurs
+19-Mar,Bryn Forbes,2,0,0,0,0,1,0,11,Spurs
+19-Mar,Brandon Paul,0,0,0,0,0,0,1,3,Spurs
+19-Mar,Davis Bertans,5,1,1,1,1,0,1,10,Spurs
+19-Mar,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+19-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+19-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+19-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+19-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+17-Mar,Danny Green,12,5,5,0,1,0,4,33,Spurs
+17-Mar,Kyle Anderson,3,3,0,2,0,0,1,13,Spurs
+17-Mar,LaMarcus Aldridge,39,10,2,0,2,1,4,35,Spurs
+17-Mar,Patty Mills,12,3,5,0,0,0,3,31,Spurs
+17-Mar,Dejounte Murray,5,5,1,4,0,3,1,23,Spurs
+17-Mar,Pau Gasol,12,7,8,1,1,0,0,24,Spurs
+17-Mar,Rudy Gay,14,4,0,1,4,0,2,20,Spurs
+17-Mar,Tony Parker,6,0,6,1,0,1,2,22,Spurs
+17-Mar,Manu Ginobili,10,3,3,2,0,0,0,16,Spurs
+17-Mar,Bryn Forbes,2,0,1,0,0,0,0,15,Spurs
+17-Mar,Brandon Paul,0,1,0,0,0,0,0,1,Spurs
+17-Mar,Davis Bertans,0,0,1,0,0,0,0,0,Spurs
+17-Mar,Joffrey Lauvergne,2,0,0,0,0,0,0,0,Spurs
+17-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+17-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+17-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+17-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Danny Green,5,7,2,0,6,0,2,29,Spurs
+15-Mar,Kyle Anderson,6,5,4,3,2,0,1,33,Spurs
+15-Mar,LaMarcus Aldridge,25,7,3,0,1,2,1,37,Spurs
+15-Mar,Patty Mills,8,4,1,0,0,1,2,34,Spurs
+15-Mar,Dejounte Murray,18,12,0,4,0,1,5,26,Spurs
+15-Mar,Tony Parker,8,4,4,1,0,3,0,19,Spurs
+15-Mar,Manu Ginobili,11,4,1,1,1,1,1,22,Spurs
+15-Mar,Bryn Forbes,5,3,0,0,0,0,1,12,Spurs
+15-Mar,Pau Gasol,8,5,0,0,1,2,1,10,Spurs
+15-Mar,Rudy Gay,4,1,1,0,0,0,0,5,Spurs
+15-Mar,Davis Bertans,0,0,0,1,0,0,0,8,Spurs
+15-Mar,Joffrey Lauvergne,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+15-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+12-Mar,Kyle Anderson,6,1,1,0,0,0,2,14,Spurs
+12-Mar,Rudy Gay,13,5,0,0,0,4,3,23,Spurs
+12-Mar,Pau Gasol,4,4,1,0,0,1,2,14,Spurs
+12-Mar,Patty Mills,3,1,2,0,0,0,0,8,Spurs
+12-Mar,Dejounte Murray,7,4,3,1,0,2,0,19,Spurs
+12-Mar,Tony Parker,12,0,3,0,0,2,0,15,Spurs
+12-Mar,Bryn Forbes,14,2,3,1,0,0,1,24,Spurs
+15-Mar,Danny Green,4,1,0,0,0,0,0,13,Spurs
+12-Mar,Davis Bertans,11,3,1,1,0,0,2,20,Spurs
+12-Mar,Joffrey Lauvergne,2,6,2,0,0,2,1,18,Spurs
+12-Mar,Brandon Paul,1,3,1,0,1,2,4,32,Spurs
+12-Mar,Derrick White,14,4,1,0,1,0,0,18,Spurs
+12-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+12-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+12-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+12-Mar,LaMarcus Aldridge,0,0,0,0,0,0,0,0,Spurs
+12-Mar,Manu Ginobili,0,0,0,0,0,0,0,0,Spurs
+10-Mar,Kyle Anderson,6,4,2,2,0,2,1,25,Spurs
+10-Mar,LaMarcus Aldridge,11,7,1,1,0,3,5,25,Spurs
+10-Mar,Pau Gasol,8,7,3,0,1,1,2,24,Spurs
+10-Mar,Patty Mills,6,2,4,0,1,1,1,24,Spurs
+10-Mar,Dejounte Murray,9,5,3,1,0,2,3,29,Spurs
+10-Mar,Rudy Gay,14,6,1,0,0,0,0,22,Spurs
+10-Mar,Tony Parker,6,2,5,0,0,1,1,18,Spurs
+10-Mar,Manu Ginobili,0,3,6,1,0,2,2,19,Spurs
+10-Mar,Danny Green,4,4,1,0,0,1,1,17,Spurs
+10-Mar,Davis Bertans,14,1,0,1,1,1,5,18,Spurs
+10-Mar,Joffrey Lauvergne,4,2,0,0,0,0,0,6,Spurs
+10-Mar,Bryn Forbes,10,0,0,0,0,0,1,5,Spurs
+10-Mar,Brandon Paul,2,0,0,0,0,0,0,1,Spurs
+10-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+10-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+10-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+10-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Kyle Anderson,12,11,4,5,0,1,4,33,Spurs
+8-Mar,LaMarcus Aldridge,30,17,4,0,0,2,1,36,Spurs
+8-Mar,Davis Bertans,13,2,3,0,0,0,4,28,Spurs
+8-Mar,Patty Mills,8,2,3,0,0,0,4,30,Spurs
+8-Mar,Dejounte Murray,14,5,6,1,0,3,2,29,Spurs
+8-Mar,Tony Parker,11,1,7,0,0,2,0,18,Spurs
+8-Mar,Danny Green,2,0,1,0,1,0,1,21,Spurs
+8-Mar,Manu Ginobili,2,0,0,0,1,3,2,7,Spurs
+8-Mar,Rudy Gay,10,5,0,1,1,0,0,15,Spurs
+8-Mar,Joffrey Lauvergne,2,2,1,0,0,0,0,11,Spurs
+8-Mar,Bryn Forbes,3,0,0,0,0,1,2,7,Spurs
+8-Mar,Pau Gasol,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Derrick White,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+8-Mar,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Kyle Anderson,16,5,3,0,1,4,2,34,Spurs
+12-Feb,Pau Gasol,15,15,6,1,2,1,3,33,Spurs
+12-Feb,Davis Bertans,12,4,0,1,3,0,4,28,Spurs
+12-Feb,Danny Green,13,5,0,0,2,0,5,30,Spurs
+12-Feb,Dejounte Murray,12,4,4,1,0,1,2,28,Spurs
+12-Feb,Manu Ginobili,9,3,2,2,0,3,2,22,Spurs
+12-Feb,Tony Parker,6,3,2,0,0,1,0,16,Spurs
+12-Feb,Patty Mills,0,0,4,0,0,0,3,21,Spurs
+12-Feb,Joffrey Lauvergne,10,5,2,0,0,1,3,14,Spurs
+12-Feb,Bryn Forbes,6,0,0,0,0,0,0,9,Spurs
+12-Feb,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Brandon Paul,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Derrick White,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+12-Feb,LaMarcus Aldridge,0,0,0,0,0,0,0,0,Spurs
+12-Feb,Rudy Gay,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Kyle Anderson,8,6,5,1,0,3,2,35,Spurs
+7-Jan,LaMarcus Aldridge,30,14,1,1,1,0,3,34,Spurs
+7-Jan,Pau Gasol,16,9,5,0,2,2,0,28,Spurs
+7-Jan,Bryn Forbes,10,1,2,0,0,1,5,27,Spurs
+7-Jan,Dejounte Murray,3,1,4,0,0,3,1,20,Spurs
+7-Jan,Patty Mills,7,1,2,0,0,3,1,27,Spurs
+7-Jan,Manu Ginobili,26,4,2,1,2,2,1,27,Spurs
+7-Jan,Davis Bertans,8,4,4,1,0,0,3,27,Spurs
+7-Jan,Joffrey Lauvergne,2,1,1,0,0,0,0,5,Spurs
+7-Jan,Brandon Paul,0,1,0,0,0,0,0,5,Spurs
+7-Jan,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Tony Parker,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Danny Green,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Derrick White,0,0,0,0,0,0,0,0,Spurs
+7-Jan,Rudy Gay,0,0,0,0,0,0,0,0,Spurs
+15-Nov,Kyle Anderson,8,5,0,0,1,2,2,25,Spurs
+15-Nov,LaMarcus Aldridge,15,10,3,0,0,3,4,27,Spurs
+15-Nov,Pau Gasol,13,8,4,0,0,3,1,28,Spurs
+15-Nov,Danny Green,11,2,2,1,0,1,3,30,Spurs
+15-Nov,Patty Mills,13,1,5,1,0,0,1,28,Spurs
+15-Nov,Joffrey Lauvergne,7,5,0,0,0,1,1,12,Spurs
+15-Nov,Manu Ginobili,2,3,2,0,2,2,1,18,Spurs
+15-Nov,Rudy Gay,7,5,1,1,0,2,3,22,Spurs
+15-Nov,Dejounte Murray,2,4,1,0,1,2,0,19,Spurs
+15-Nov,Bryn Forbes,8,2,1,1,0,0,2,20,Spurs
+15-Nov,Brandon Paul,0,0,1,0,0,0,0,4,Spurs
+15-Nov,Davis Bertans,0,0,0,0,0,0,0,1,Spurs
+15-Nov,Matt Costello,0,0,0,0,0,0,0,0,Spurs
+15-Nov,Tony Parker,0,0,0,0,0,0,0,0,Spurs
+15-Nov,Darrun Hilliard,0,0,0,0,0,0,0,0,Spurs
+15-Nov,Kawhi Leonard,0,0,0,0,0,0,0,0,Spurs
+15-Nov,Derrick White,0,0,0,0,0,0,0,0,Spurs
+25-Apr,J.Crawford,20,2,2,1,0,3,1,26,Timberwolves
+25-Apr,G.Dieng,0,4,0,0,0,0,1,12,Timberwolves
+25-Apr,M.Georges-Hunt,0,0,0,0,0,0,0,1,Timberwolves
+25-Apr,T.Jones,0,2,3,0,0,0,0,11,Timberwolves
+25-Apr,D.Rose,12,0,2,0,0,0,3,24,Timberwolves
+25-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+25-Apr,N.Bjelica,0,1,0,0,0,0,0,3,Timberwolves
+25-Apr,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+25-Apr,J.Butler,8,5,5,1,1,0,0,30,Timberwolves
+25-Apr,T.Gibson,10,2,0,0,1,0,2,23,Timberwolves
+25-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+25-Apr,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+25-Apr,J.Teague,17,4,7,0,0,1,3,37,Timberwolves
+25-Apr,K.Towns,23,14,4,0,1,2,4,35,Timberwolves
+25-Apr,A.Wiggins,14,4,0,0,0,2,4,37,Timberwolves
+25-Apr,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+25-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,N.Bjelica,7,3,1,1,0,0,3,16,Timberwolves
+23-Apr,A.Brooks,4,0,0,0,0,0,0,2,Timberwolves
+23-Apr,J.Crawford,10,2,4,3,0,2,3,24,Timberwolves
+23-Apr,G.Dieng,3,5,1,0,1,0,2,16,Timberwolves
+23-Apr,M.Georges-Hunt,0,1,0,0,0,0,0,2,Timberwolves
+23-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,J.Butler,19,9,5,0,0,1,2,38,Timberwolves
+23-Apr,T.Gibson,2,3,0,0,0,0,1,20,Timberwolves
+23-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,T.Jones,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,D.Rose,17,6,4,0,0,4,2,32,Timberwolves
+23-Apr,J.Teague,2,1,5,0,0,3,4,28,Timberwolves
+23-Apr,K.Towns,22,15,2,0,0,5,3,32,Timberwolves
+23-Apr,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+23-Apr,A.Wiggins,14,3,1,0,0,1,2,29,Timberwolves
+23-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,N.Bjelica,0,1,0,0,0,0,0,3,Timberwolves
+21-Apr,A.Brooks,0,0,0,0,0,0,0,1,Timberwolves
+21-Apr,G.Dieng,5,0,2,2,0,0,1,9,Timberwolves
+21-Apr,T.Jones,2,2,1,0,0,0,0,7,Timberwolves
+21-Apr,D.Rose,17,0,2,2,0,1,1,21,Timberwolves
+21-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,J.Butler,28,7,5,1,0,1,2,41,Timberwolves
+21-Apr,J.Crawford,6,3,2,1,0,0,1,18,Timberwolves
+21-Apr,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,T.Gibson,2,4,1,0,0,0,2,25,Timberwolves
+21-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,J.Teague,23,3,8,1,0,1,4,41,Timberwolves
+21-Apr,K.Towns,18,16,3,1,2,3,4,39,Timberwolves
+21-Apr,A.Wiggins,20,5,5,1,1,1,1,35,Timberwolves
+21-Apr,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+21-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,N.Bjelica,16,8,2,2,0,1,3,19,Timberwolves
+18-Apr,J.Crawford,8,4,2,0,0,0,1,29,Timberwolves
+18-Apr,G.Dieng,2,6,1,0,3,1,1,24,Timberwolves
+18-Apr,T.Jones,2,5,3,1,0,1,0,29,Timberwolves
+18-Apr,D.Rose,9,1,1,0,0,1,0,17,Timberwolves
+18-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,J.Butler,11,4,2,0,0,3,1,25,Timberwolves
+18-Apr,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,T.Gibson,8,5,0,1,1,2,2,23,Timberwolves
+18-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,J.Teague,8,1,1,1,1,4,4,19,Timberwolves
+18-Apr,K.Towns,5,10,0,1,1,0,1,24,Timberwolves
+18-Apr,A.Wiggins,13,8,3,1,1,3,3,31,Timberwolves
+18-Apr,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+18-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,J.Butler,13,5,3,2,0,0,4,36,Timberwolves
+15-Apr,J.Crawford,15,2,2,0,0,0,0,16,Timberwolves
+15-Apr,J.Teague,15,9,8,1,1,5,4,29,Timberwolves
+15-Apr,K.Towns,8,12,2,0,1,2,2,40,Timberwolves
+15-Apr,A.Wiggins,18,6,1,0,0,2,4,32,Timberwolves
+15-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,N.Bjelica,0,2,0,0,0,0,0,6,Timberwolves
+15-Apr,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,G.Dieng,7,3,0,0,0,0,1,8,Timberwolves
+15-Apr,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,T.Gibson,9,6,1,0,0,2,1,32,Timberwolves
+15-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,T.Jones,0,0,1,0,0,0,0,7,Timberwolves
+15-Apr,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,D.Rose,16,2,4,0,0,2,3,24,Timberwolves
+15-Apr,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+15-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,A.Brooks,12,2,2,0,0,1,5,16,Timberwolves
+1-Apr,A.Brown,3,0,1,0,0,0,0,4,Timberwolves
+1-Apr,G.Dieng,2,5,2,1,1,2,1,19,Timberwolves
+1-Apr,M.Georges-Hunt,0,0,0,0,0,0,1,5,Timberwolves
+1-Apr,J.Patton,2,0,0,1,0,0,1,4,Timberwolves
+1-Apr,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,N.Bjelica,7,5,1,2,0,1,3,26,Timberwolves
+1-Apr,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,J.Crawford,7,1,2,0,0,3,1,27,Timberwolves
+1-Apr,T.Gibson,6,6,1,0,0,0,2,34,Timberwolves
+1-Apr,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,T.Jones,15,0,4,4,0,1,0,33,Timberwolves
+1-Apr,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,J.Teague,0,0,0,0,0,0,0,0,Timberwolves
+1-Apr,K.Towns,20,7,2,0,0,3,2,36,Timberwolves
+1-Apr,A.Wiggins,23,6,4,2,0,1,1,36,Timberwolves
+1-Apr,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,T.Gibson,4,3,0,1,0,1,5,26,Timberwolves
+18-Mar,D.Rose,14,1,3,0,0,1,0,19,Timberwolves
+18-Mar,J.Teague,23,6,11,2,0,3,4,37,Timberwolves
+18-Mar,K.Towns,20,18,1,1,1,3,3,35,Timberwolves
+18-Mar,A.Wiggins,21,2,1,2,0,2,4,36,Timberwolves
+18-Mar,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,N.Bjelica,15,6,3,0,0,1,4,35,Timberwolves
+18-Mar,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,J.Crawford,20,1,3,1,0,1,1,28,Timberwolves
+18-Mar,G.Dieng,3,4,1,0,0,0,3,13,Timberwolves
+18-Mar,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,T.Jones,0,0,1,0,0,0,2,13,Timberwolves
+18-Mar,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+18-Mar,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,C.Aldrich,0,0,0,0,0,0,0,1,Timberwolves
+17-Mar,G.Dieng,4,2,0,0,0,1,2,11,Timberwolves
+17-Mar,M.Georges-Hunt,0,1,0,0,0,0,0,1,Timberwolves
+17-Mar,T.Jones,9,1,2,0,1,1,2,16,Timberwolves
+17-Mar,D.Rose,8,1,2,1,0,0,0,15,Timberwolves
+17-Mar,N.Bjelica,7,8,1,0,0,2,4,37,Timberwolves
+17-Mar,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,J.Crawford,5,1,1,0,0,2,0,21,Timberwolves
+17-Mar,T.Gibson,8,4,1,0,0,4,3,33,Timberwolves
+17-Mar,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+17-Mar,J.Teague,16,2,8,2,0,0,1,31,Timberwolves
+17-Mar,K.Towns,23,9,2,0,1,5,3,39,Timberwolves
+17-Mar,A.Wiggins,21,5,5,0,0,1,1,34,Timberwolves
+17-Mar,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,N.Bjelica,10,7,4,3,2,1,3,40,Timberwolves
+11-Mar,T.Gibson,11,13,2,0,1,0,3,39,Timberwolves
+11-Mar,J.Teague,10,3,10,2,0,2,1,36,Timberwolves
+11-Mar,K.Towns,31,16,2,1,0,1,4,39,Timberwolves
+11-Mar,A.Wiggins,23,5,3,0,0,1,3,37,Timberwolves
+11-Mar,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,J.Crawford,12,2,1,1,0,1,0,22,Timberwolves
+11-Mar,G.Dieng,2,1,1,0,0,0,1,9,Timberwolves
+11-Mar,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,T.Jones,8,2,2,0,0,1,0,12,Timberwolves
+11-Mar,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+11-Mar,D.Rose,2,1,2,0,0,2,0,7,Timberwolves
+11-Mar,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,N.Bjelica,12,4,1,1,0,2,4,45,Timberwolves
+2-Mar,J.Crawford,2,0,4,1,0,2,2,29,Timberwolves
+2-Mar,T.Gibson,12,4,3,1,0,0,4,39,Timberwolves
+2-Mar,T.Jones,11,4,2,2,0,1,3,25,Timberwolves
+2-Mar,A.Wiggins,27,3,1,1,0,4,3,35,Timberwolves
+2-Mar,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,G.Dieng,0,4,1,0,0,0,2,19,Timberwolves
+2-Mar,M.Georges-Hunt,0,0,0,0,0,0,1,3,Timberwolves
+2-Mar,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,J.Teague,25,4,2,2,0,2,3,26,Timberwolves
+2-Mar,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+2-Mar,K.Towns,13,4,0,1,0,1,1,20,Timberwolves
+2-Mar,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,N.Bjelica,8,12,0,1,1,1,2,34,Timberwolves
+1-Mar,J.Crawford,10,1,3,0,0,1,2,25,Timberwolves
+1-Mar,T.Jones,2,0,2,0,1,0,1,13,Timberwolves
+1-Mar,J.Teague,13,5,5,2,1,5,1,36,Timberwolves
+1-Mar,K.Towns,34,17,2,2,3,1,5,41,Timberwolves
+1-Mar,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,G.Dieng,2,5,1,0,0,1,4,24,Timberwolves
+1-Mar,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,T.Gibson,9,4,0,0,0,2,3,29,Timberwolves
+1-Mar,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,A.Wiggins,21,5,3,0,1,4,6,38,Timberwolves
+1-Mar,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+1-Mar,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,N.Bjelica,5,5,3,2,0,1,1,21,Timberwolves
+23-Feb,G.Dieng,0,4,1,0,1,0,2,16,Timberwolves
+23-Feb,M.Georges-Hunt,0,0,0,0,0,0,1,3,Timberwolves
+23-Feb,T.Jones,3,2,2,1,0,0,2,17,Timberwolves
+23-Feb,S.Muhammand,4,0,0,0,0,1,0,3,Timberwolves
+23-Feb,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,J.Butler,10,5,3,1,0,0,1,25,Timberwolves
+23-Feb,J.Crawford,14,3,0,0,0,0,4,24,Timberwolves
+23-Feb,T.Gibson,9,3,1,0,1,3,3,27,Timberwolves
+23-Feb,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+23-Feb,J.Teague,18,4,4,2,0,2,3,35,Timberwolves
+23-Feb,K.Towns,18,13,3,0,1,2,3,32,Timberwolves
+23-Feb,A.Wiggins,21,4,2,0,0,1,2,36,Timberwolves
+23-Feb,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,A.Brooks,0,0,1,0,0,0,0,1,Timberwolves
+3-Feb,G.Dieng,6,6,0,0,0,0,1,15,Timberwolves
+3-Feb,M.Georges-Hunt,0,0,0,0,0,0,0,1,Timberwolves
+3-Feb,T.Gibson,12,9,1,0,1,1,2,33,Timberwolves
+3-Feb,A.Wiggins,15,3,1,1,0,2,2,38,Timberwolves
+3-Feb,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,N.Bjelica,5,3,1,1,0,0,1,15,Timberwolves
+3-Feb,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,J.Butler,30,8,7,2,0,2,1,37,Timberwolves
+3-Feb,J.Crawford,8,2,2,1,1,2,1,21,Timberwolves
+3-Feb,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,T.Jones,15,1,1,2,0,1,2,20,Timberwolves
+3-Feb,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+3-Feb,J.Teague,5,2,6,1,1,3,0,27,Timberwolves
+3-Feb,K.Towns,22,16,1,1,0,1,3,33,Timberwolves
+3-Feb,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,J.Crawford,21,3,5,0,0,1,0,26,Timberwolves
+25-Jan,T.Gibson,12,10,1,1,1,1,1,34,Timberwolves
+25-Jan,J.Teague,17,3,7,2,1,3,4,35,Timberwolves
+25-Jan,K.Towns,31,11,5,0,0,2,2,36,Timberwolves
+25-Jan,A.Wiggins,10,4,3,2,1,2,2,37,Timberwolves
+25-Jan,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,N.Bjelica,11,6,3,2,0,0,2,37,Timberwolves
+25-Jan,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,G.Dieng,9,4,0,1,0,0,1,12,Timberwolves
+25-Jan,M.Georges-Hunt,0,1,1,0,0,0,3,11,Timberwolves
+25-Jan,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,T.Jones,2,1,0,1,0,1,0,12,Timberwolves
+25-Jan,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+25-Jan,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+24-Jan,C.Aldrich,1,2,0,0,0,0,0,4,Timberwolves
+24-Jan,A.Brooks,2,0,0,0,0,0,0,2,Timberwolves
+24-Jan,G.Dieng,6,5,2,2,1,0,1,17,Timberwolves
+24-Jan,T.Jones,6,1,5,1,0,0,2,21,Timberwolves
+24-Jan,S.Muhammand,5,1,0,0,0,0,0,4,Timberwolves
+24-Jan,N.Bjelica,9,7,0,2,0,0,4,36,Timberwolves
+24-Jan,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+24-Jan,J.Butler,0,0,0,0,0,0,0,0,Timberwolves
+24-Jan,J.Crawford,19,0,5,0,0,1,1,20,Timberwolves
+24-Jan,M.Georges-Hunt,0,0,0,0,0,0,0,19,Timberwolves
+24-Jan,T.Gibson,11,4,2,1,0,1,1,28,Timberwolves
+24-Jan,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+24-Jan,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+24-Jan,J.Teague,15,2,3,1,0,2,1,27,Timberwolves
+24-Jan,K.Towns,16,9,1,0,0,1,3,31,Timberwolves
+24-Jan,A.Wiggins,24,2,2,0,1,1,1,32,Timberwolves
+24-Jan,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+10-Jan,C.Aldrich,0,0,0,0,0,0,0,2,Timberwolves
+10-Jan,N.Bjelica,3,4,0,0,0,1,2,9,Timberwolves
+10-Jan,A.Brooks,2,0,0,0,0,0,0,2,Timberwolves
+10-Jan,M.Georges-Hunt,2,3,0,0,0,0,2,11,Timberwolves
+10-Jan,S.Muhammand,0,0,0,0,0,0,0,2,Timberwolves
+10-Jan,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+10-Jan,J.Butler,26,7,8,4,2,4,0,36,Timberwolves
+10-Jan,J.Crawford,8,1,3,1,1,0,1,18,Timberwolves
+10-Jan,G.Dieng,6,5,1,2,1,2,0,16,Timberwolves
+10-Jan,T.Gibson,9,5,1,0,0,2,6,28,Timberwolves
+10-Jan,T.Jones,3,1,1,1,0,0,1,19,Timberwolves
+10-Jan,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+10-Jan,J.Teague,8,4,3,2,1,3,3,26,Timberwolves
+10-Jan,K.Towns,18,12,3,0,0,1,3,30,Timberwolves
+10-Jan,A.Wiggins,19,3,2,1,0,1,4,42,Timberwolves
+10-Jan,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+10-Jan,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,C.Aldrich,2,0,0,0,0,0,1,2,Timberwolves
+6-Jan,N.Bjelica,2,1,0,0,0,1,3,12,Timberwolves
+6-Jan,A.Brooks,5,1,1,0,0,0,2,15,Timberwolves
+6-Jan,J.Crawford,4,2,5,0,0,0,1,19,Timberwolves
+6-Jan,M.Georges-Hunt,2,0,0,1,0,0,0,2,Timberwolves
+6-Jan,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,J.Butler,21,7,8,1,0,2,0,32,Timberwolves
+6-Jan,G.Dieng,14,3,2,1,1,0,4,21,Timberwolves
+6-Jan,T.Gibson,15,6,3,3,0,1,2,34,Timberwolves
+6-Jan,T.Jones,10,3,2,1,0,3,2,33,Timberwolves
+6-Jan,S.Muhammand,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,J.Teague,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,K.Towns,21,16,3,1,1,2,4,35,Timberwolves
+6-Jan,A.Wiggins,20,8,2,2,3,0,1,35,Timberwolves
+6-Jan,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+6-Jan,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,J.Butler,22,3,7,3,2,3,2,41,Timberwolves
+1-Dec,J.Crawford,9,1,3,0,1,1,2,18,Timberwolves
+1-Dec,J.Teague,11,3,10,0,0,2,1,34,Timberwolves
+1-Dec,K.Towns,23,9,0,2,1,2,5,35,Timberwolves
+1-Dec,A.Wiggins,23,3,1,1,1,1,3,40,Timberwolves
+1-Dec,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,N.Bjelica,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,G.Dieng,10,3,2,0,0,2,2,22,Timberwolves
+1-Dec,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,T.Gibson,9,4,1,1,0,4,4,36,Timberwolves
+1-Dec,T.Jones,0,0,2,0,0,1,1,11,Timberwolves
+1-Dec,S.Muhammand,0,0,0,0,0,0,0,3,Timberwolves
+1-Dec,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+1-Dec,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,J.Butler,6,5,5,3,1,1,0,33,Timberwolves
+15-Nov,T.Gibson,10,8,1,0,0,0,3,30,Timberwolves
+15-Nov,J.Teague,16,1,6,2,0,2,3,33,Timberwolves
+15-Nov,K.Towns,26,16,2,1,2,2,4,40,Timberwolves
+15-Nov,A.Wiggins,11,2,3,0,0,0,1,36,Timberwolves
+15-Nov,C.Aldrich,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,N.Bjelica,11,4,2,1,1,0,4,22,Timberwolves
+15-Nov,A.Brooks,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,A.Brown,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,J.Crawford,5,1,3,1,0,0,0,18,Timberwolves
+15-Nov,G.Dieng,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,M.Georges-Hunt,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,T.Jones,4,2,4,1,0,1,0,15,Timberwolves
+15-Nov,S.Muhammand,9,2,1,0,0,0,1,12,Timberwolves
+15-Nov,J.Patton,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,A.Jefferson,0,0,0,0,0,0,0,0,Timberwolves
+15-Nov,D.Rose,0,0,0,0,0,0,0,0,Timberwolves
+27-Apr,J. Crowder,5,2,2,0,0,1,4,30,Jazz
+27-Apr,D. Favors,13,8,1,1,2,0,2,38,Jazz
+27-Apr,R. Gobert,12,13,0,2,3,1,1,39,Jazz
+27-Apr,J. Ingles,12,7,5,2,0,3,2,42,Jazz
+27-Apr,D. Mitchell,38,4,2,1,0,5,5,40,Jazz
+27-Apr,R. Rubio,0,1,3,0,0,0,0,7,Jazz
+27-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+27-Apr,A. Burks,11,1,1,1,0,1,1,16,Jazz
+27-Apr,D. Exum,0,0,0,0,0,1,0,3,Jazz
+27-Apr,J. Jerebko,0,2,0,1,0,0,0,4,Jazz
+27-Apr,R. Neto,0,0,0,0,0,0,0,0,Jazz
+27-Apr,R. O'Neale,5,2,2,1,0,1,2,18,Jazz
+27-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+27-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+27-Apr,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+25-Apr,J. Crowder,27,8,3,1,0,1,2,36,Jazz
+25-Apr,D. Favors,10,5,0,0,1,4,5,23,Jazz
+25-Apr,R. Gobert,11,10,1,1,2,3,5,30,Jazz
+25-Apr,J. Ingles,16,4,3,0,0,2,2,40,Jazz
+25-Apr,D. Mitchell,23,5,3,3,1,1,2,40,Jazz
+25-Apr,R. Rubio,10,12,7,0,0,4,4,35,Jazz
+25-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+25-Apr,A. Burks,0,0,0,0,0,0,0,0,Jazz
+25-Apr,D. Exum,0,0,0,0,0,0,0,2,Jazz
+25-Apr,J. Jerebko,0,0,0,0,0,0,2,5,Jazz
+25-Apr,R. Neto,0,0,0,0,0,0,0,0,Jazz
+25-Apr,R. O'Neale,0,1,2,0,1,1,2,21,Jazz
+25-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+25-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+25-Apr,E. Udoh,2,1,0,0,1,0,0,4,Jazz
+23-Apr,J. Crowder,6,7,3,3,0,3,3,27,Jazz
+23-Apr,D. Favors,13,4,0,1,2,0,2,33,Jazz
+23-Apr,R. Gobert,16,10,1,1,1,2,4,34,Jazz
+23-Apr,J. Ingles,20,3,4,1,1,1,2,30,Jazz
+23-Apr,D. Mitchell,33,7,4,0,1,0,3,38,Jazz
+23-Apr,R. Rubio,13,6,8,1,1,4,2,34,Jazz
+23-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+23-Apr,A. Burks,0,0,0,0,0,0,0,1,Jazz
+23-Apr,D. Exum,2,2,1,0,0,1,1,10,Jazz
+23-Apr,J. Jerebko,0,1,0,0,0,0,2,6,Jazz
+23-Apr,R. Neto,0,0,0,0,0,0,0,1,Jazz
+23-Apr,R. O'Neale,10,9,0,0,1,0,4,20,Jazz
+23-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+23-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+23-Apr,E. Udoh,0,0,0,0,0,0,0,1,Jazz
+21-Apr,J. Crowder,4,1,0,2,0,1,2,22,Jazz
+21-Apr,D. Favors,11,5,2,1,1,1,1,34,Jazz
+21-Apr,R. Gobert,18,12,2,1,1,1,3,41,Jazz
+21-Apr,J. Ingles,21,3,4,1,0,1,4,32,Jazz
+21-Apr,D. Mitchell,22,11,2,2,1,5,4,35,Jazz
+21-Apr,R. Rubio,26,11,10,2,1,4,1,37,Jazz
+21-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+21-Apr,A. Burks,2,0,0,0,0,0,0,1,Jazz
+21-Apr,D. Exum,4,2,2,0,0,3,1,9,Jazz
+21-Apr,J. Jerebko,0,2,0,1,0,1,1,6,Jazz
+21-Apr,R. Neto,0,0,0,0,0,0,0,1,Jazz
+21-Apr,R. O'Neale,7,1,2,2,1,1,2,15,Jazz
+21-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+21-Apr,D. Stockton,0,0,0,0,0,0,0,1,Jazz
+21-Apr,E. Udoh,0,0,0,0,0,1,1,2,Jazz
+18-Apr,J. Crowder,1,1,2,3,0,1,5,19,Jazz
+18-Apr,D. Favors,20,16,3,1,0,1,2,37,Jazz
+18-Apr,R. Gobert,13,15,3,2,3,3,2,33,Jazz
+18-Apr,J. Ingles,20,2,2,0,0,1,2,34,Jazz
+18-Apr,D. Mitchell,28,6,2,1,0,4,1,42,Jazz
+18-Apr,R. Rubio,22,7,9,1,0,3,4,35,Jazz
+18-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+18-Apr,A. Burks,0,0,0,0,0,0,0,0,Jazz
+18-Apr,D. Exum,2,1,1,1,0,1,0,12,Jazz
+18-Apr,J. Jerebko,10,5,0,0,0,0,2,12,Jazz
+18-Apr,R. Neto,0,0,0,0,0,0,0,0,Jazz
+18-Apr,R. O'Neale,3,3,0,0,0,0,1,13,Jazz
+18-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+18-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+18-Apr,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+15-Apr,J. Crowder,5,2,2,0,0,1,4,30,Jazz
+15-Apr,D. Favors,13,8,1,1,2,0,2,38,Jazz
+15-Apr,R. Gobert,12,13,0,2,3,1,1,39,Jazz
+15-Apr,J. Ingles,12,7,5,2,0,3,2,42,Jazz
+15-Apr,D. Mitchell,38,4,2,1,0,5,5,40,Jazz
+15-Apr,R. Rubio,0,1,3,0,0,0,0,7,Jazz
+15-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+15-Apr,A. Burks,11,1,1,1,0,1,1,16,Jazz
+15-Apr,D. Exum,0,0,0,0,0,1,0,3,Jazz
+15-Apr,J. Jerebko,0,2,0,1,0,0,0,4,Jazz
+15-Apr,R. Neto,0,0,0,0,0,0,0,0,Jazz
+15-Apr,R. O'Neale,5,2,2,1,0,1,2,18,Jazz
+15-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+15-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+15-Apr,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+11-Apr,J. Crowder,27,8,3,1,0,1,2,36,Jazz
+11-Apr,D. Favors,10,5,0,0,1,4,5,23,Jazz
+11-Apr,R. Gobert,11,10,1,1,2,3,5,30,Jazz
+11-Apr,J. Ingles,16,4,3,0,0,2,2,40,Jazz
+11-Apr,D. Mitchell,23,5,3,3,1,1,2,40,Jazz
+11-Apr,R. Rubio,10,12,7,0,0,4,4,35,Jazz
+11-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+11-Apr,A. Burks,0,0,0,0,0,0,0,0,Jazz
+11-Apr,D. Exum,0,0,0,0,0,0,0,2,Jazz
+11-Apr,J. Jerebko,0,0,0,0,0,0,2,5,Jazz
+11-Apr,R. Neto,0,0,0,0,0,0,0,0,Jazz
+11-Apr,R. O'Neale,0,1,2,0,1,1,2,21,Jazz
+11-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+11-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+11-Apr,E. Udoh,2,1,0,0,1,0,0,4,Jazz
+10-Apr,J. Crowder,6,7,3,3,0,3,3,27,Jazz
+10-Apr,D. Favors,13,4,0,1,2,0,2,33,Jazz
+10-Apr,R. Gobert,16,10,1,1,1,2,4,34,Jazz
+10-Apr,J. Ingles,20,3,4,1,1,1,2,30,Jazz
+10-Apr,D. Mitchell,33,7,4,0,1,0,3,38,Jazz
+10-Apr,R. Rubio,13,6,8,1,1,4,2,34,Jazz
+10-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+10-Apr,A. Burks,0,0,0,0,0,0,0,1,Jazz
+10-Apr,D. Exum,2,2,1,0,0,1,1,10,Jazz
+10-Apr,J. Jerebko,0,1,0,0,0,0,2,6,Jazz
+10-Apr,R. Neto,0,0,0,0,0,0,0,1,Jazz
+10-Apr,R. O'Neale,10,9,0,0,1,0,4,20,Jazz
+10-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+10-Apr,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+10-Apr,E. Udoh,0,0,0,0,0,0,0,1,Jazz
+1-Apr,J. Crowder,4,1,0,2,0,1,2,22,Jazz
+1-Apr,D. Favors,11,5,2,1,1,1,1,34,Jazz
+1-Apr,R. Gobert,18,12,2,1,1,1,3,41,Jazz
+1-Apr,J. Ingles,21,3,4,1,0,1,4,32,Jazz
+1-Apr,D. Mitchell,22,11,2,2,1,5,4,35,Jazz
+1-Apr,R. Rubio,26,11,10,2,1,4,1,37,Jazz
+1-Apr,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+1-Apr,A. Burks,2,0,0,0,0,0,0,1,Jazz
+1-Apr,D. Exum,4,2,2,0,0,3,1,9,Jazz
+1-Apr,J. Jerebko,0,2,0,1,0,1,1,6,Jazz
+1-Apr,R. Neto,0,0,0,0,0,0,0,1,Jazz
+1-Apr,R. O'Neale,7,1,2,2,1,1,2,15,Jazz
+1-Apr,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+1-Apr,D. Stockton,0,0,0,0,0,0,0,1,Jazz
+1-Apr,E. Udoh,0,0,0,0,0,1,1,2,Jazz
+25-Mar,J. Crowder,1,1,2,3,0,1,5,19,Jazz
+25-Mar,D. Favors,20,16,3,1,0,1,2,37,Jazz
+25-Mar,R. Gobert,13,15,3,2,3,3,2,33,Jazz
+25-Mar,J. Ingles,20,2,2,0,0,1,2,34,Jazz
+25-Mar,D. Mitchell,28,6,2,1,0,4,1,42,Jazz
+25-Mar,R. Rubio,22,7,9,1,0,3,4,35,Jazz
+25-Mar,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+25-Mar,A. Burks,0,0,0,0,0,0,0,0,Jazz
+25-Mar,D. Exum,2,1,1,1,0,1,0,12,Jazz
+25-Mar,J. Jerebko,10,5,0,0,0,0,2,12,Jazz
+25-Mar,R. Neto,0,0,0,0,0,0,0,0,Jazz
+25-Mar,R. O'Neale,3,3,0,0,0,0,1,13,Jazz
+25-Mar,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+25-Mar,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+25-Mar,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+23-Mar,J. Crowder,5,2,2,0,0,1,4,30,Jazz
+23-Mar,D. Favors,13,8,1,1,2,0,2,38,Jazz
+23-Mar,R. Gobert,12,13,0,2,3,1,1,39,Jazz
+23-Mar,J. Ingles,12,7,5,2,0,3,2,42,Jazz
+23-Mar,D. Mitchell,38,4,2,1,0,5,5,40,Jazz
+23-Mar,R. Rubio,0,1,3,0,0,0,0,7,Jazz
+23-Mar,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+23-Mar,A. Burks,11,1,1,1,0,1,1,16,Jazz
+23-Mar,D. Exum,0,0,0,0,0,1,0,3,Jazz
+23-Mar,J. Jerebko,0,2,0,1,0,0,0,4,Jazz
+23-Mar,R. Neto,0,0,0,0,0,0,0,0,Jazz
+23-Mar,R. O'Neale,5,2,2,1,0,1,2,18,Jazz
+23-Mar,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+23-Mar,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+23-Mar,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+11-Mar,J. Crowder,27,8,3,1,0,1,2,36,Jazz
+11-Mar,D. Favors,10,5,0,0,1,4,5,23,Jazz
+11-Mar,R. Gobert,11,10,1,1,2,3,5,30,Jazz
+11-Mar,J. Ingles,16,4,3,0,0,2,2,40,Jazz
+11-Mar,D. Mitchell,23,5,3,3,1,1,2,40,Jazz
+11-Mar,R. Rubio,10,12,7,0,0,4,4,35,Jazz
+11-Mar,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+11-Mar,A. Burks,0,0,0,0,0,0,0,0,Jazz
+11-Mar,D. Exum,0,0,0,0,0,0,0,2,Jazz
+11-Mar,J. Jerebko,0,0,0,0,0,0,2,5,Jazz
+11-Mar,R. Neto,0,0,0,0,0,0,0,0,Jazz
+11-Mar,R. O'Neale,0,1,2,0,1,1,2,21,Jazz
+11-Mar,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+11-Mar,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+11-Mar,E. Udoh,2,1,0,0,1,0,0,4,Jazz
+2-Mar,J. Crowder,6,7,3,3,0,3,3,27,Jazz
+2-Mar,D. Favors,13,4,0,1,2,0,2,33,Jazz
+2-Mar,R. Gobert,16,10,1,1,1,2,4,34,Jazz
+2-Mar,J. Ingles,20,3,4,1,1,1,2,30,Jazz
+2-Mar,D. Mitchell,33,7,4,0,1,0,3,38,Jazz
+2-Mar,R. Rubio,13,6,8,1,1,4,2,34,Jazz
+2-Mar,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+2-Mar,A. Burks,0,0,0,0,0,0,0,1,Jazz
+2-Mar,D. Exum,2,2,1,0,0,1,1,10,Jazz
+2-Mar,J. Jerebko,0,1,0,0,0,0,2,6,Jazz
+2-Mar,R. Neto,0,0,0,0,0,0,0,1,Jazz
+2-Mar,R. O'Neale,10,9,0,0,1,0,4,20,Jazz
+2-Mar,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+2-Mar,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+2-Mar,E. Udoh,0,0,0,0,0,0,0,1,Jazz
+26-Feb,J. Crowder,4,1,0,2,0,1,2,22,Jazz
+26-Feb,D. Favors,11,5,2,1,1,1,1,34,Jazz
+26-Feb,R. Gobert,18,12,2,1,1,1,3,41,Jazz
+26-Feb,J. Ingles,21,3,4,1,0,1,4,32,Jazz
+26-Feb,D. Mitchell,22,11,2,2,1,5,4,35,Jazz
+26-Feb,R. Rubio,26,11,10,2,1,4,1,37,Jazz
+26-Feb,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+26-Feb,A. Burks,2,0,0,0,0,0,0,1,Jazz
+26-Feb,D. Exum,4,2,2,0,0,3,1,9,Jazz
+26-Feb,J. Jerebko,0,2,0,1,0,1,1,6,Jazz
+26-Feb,R. Neto,0,0,0,0,0,0,0,1,Jazz
+26-Feb,R. O'Neale,7,1,2,2,1,1,2,15,Jazz
+26-Feb,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+26-Feb,D. Stockton,0,0,0,0,0,0,0,1,Jazz
+26-Feb,E. Udoh,0,0,0,0,0,1,1,2,Jazz
+23-Feb,J. Crowder,1,1,2,3,0,1,5,19,Jazz
+23-Feb,D. Favors,20,16,3,1,0,1,2,37,Jazz
+23-Feb,R. Gobert,13,15,3,2,3,3,2,33,Jazz
+23-Feb,J. Ingles,20,2,2,0,0,1,2,34,Jazz
+23-Feb,D. Mitchell,28,6,2,1,0,4,1,42,Jazz
+23-Feb,R. Rubio,22,7,9,1,0,3,4,35,Jazz
+23-Feb,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+23-Feb,A. Burks,0,0,0,0,0,0,0,0,Jazz
+23-Feb,D. Exum,2,1,1,1,0,1,0,12,Jazz
+23-Feb,J. Jerebko,10,5,0,0,0,0,2,12,Jazz
+23-Feb,R. Neto,0,0,0,0,0,0,0,0,Jazz
+23-Feb,R. O'Neale,3,3,0,0,0,0,1,13,Jazz
+23-Feb,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+23-Feb,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+23-Feb,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+12-Feb,J. Crowder,5,2,2,0,0,1,4,30,Jazz
+12-Feb,D. Favors,13,8,1,1,2,0,2,38,Jazz
+12-Feb,R. Gobert,12,13,0,2,3,1,1,39,Jazz
+12-Feb,J. Ingles,12,7,5,2,0,3,2,42,Jazz
+12-Feb,D. Mitchell,38,4,2,1,0,5,5,40,Jazz
+12-Feb,R. Rubio,0,1,3,0,0,0,0,7,Jazz
+12-Feb,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+12-Feb,A. Burks,11,1,1,1,0,1,1,16,Jazz
+12-Feb,D. Exum,0,0,0,0,0,1,0,3,Jazz
+12-Feb,J. Jerebko,0,2,0,1,0,0,0,4,Jazz
+12-Feb,R. Neto,0,0,0,0,0,0,0,0,Jazz
+12-Feb,R. O'Neale,5,2,2,1,0,1,2,18,Jazz
+12-Feb,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+12-Feb,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+12-Feb,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+5-Feb,J. Crowder,27,8,3,1,0,1,2,36,Jazz
+5-Feb,D. Favors,10,5,0,0,1,4,5,23,Jazz
+5-Feb,R. Gobert,11,10,1,1,2,3,5,30,Jazz
+5-Feb,J. Ingles,16,4,3,0,0,2,2,40,Jazz
+5-Feb,D. Mitchell,23,5,3,3,1,1,2,40,Jazz
+5-Feb,R. Rubio,10,12,7,0,0,4,4,35,Jazz
+5-Feb,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+5-Feb,A. Burks,0,0,0,0,0,0,0,0,Jazz
+5-Feb,D. Exum,0,0,0,0,0,0,0,2,Jazz
+5-Feb,J. Jerebko,0,0,0,0,0,0,2,5,Jazz
+5-Feb,R. Neto,0,0,0,0,0,0,0,0,Jazz
+5-Feb,R. O'Neale,0,1,2,0,1,1,2,21,Jazz
+5-Feb,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+5-Feb,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+5-Feb,E. Udoh,2,1,0,0,1,0,0,4,Jazz
+23-Dec,J. Crowder,6,7,3,3,0,3,3,27,Jazz
+23-Dec,D. Favors,13,4,0,1,2,0,2,33,Jazz
+23-Dec,R. Gobert,16,10,1,1,1,2,4,34,Jazz
+23-Dec,J. Ingles,20,3,4,1,1,1,2,30,Jazz
+23-Dec,D. Mitchell,33,7,4,0,1,0,3,38,Jazz
+23-Dec,R. Rubio,13,6,8,1,1,4,2,34,Jazz
+23-Dec,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+23-Dec,A. Burks,0,0,0,0,0,0,0,1,Jazz
+23-Dec,D. Exum,2,2,1,0,0,1,1,10,Jazz
+23-Dec,J. Jerebko,0,1,0,0,0,0,2,6,Jazz
+23-Dec,R. Neto,0,0,0,0,0,0,0,1,Jazz
+23-Dec,R. O'Neale,10,9,0,0,1,0,4,20,Jazz
+23-Dec,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+23-Dec,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+23-Dec,E. Udoh,0,0,0,0,0,0,0,1,Jazz
+20-Dec,J. Crowder,4,1,0,2,0,1,2,22,Jazz
+20-Dec,D. Favors,11,5,2,1,1,1,1,34,Jazz
+20-Dec,R. Gobert,18,12,2,1,1,1,3,41,Jazz
+20-Dec,J. Ingles,21,3,4,1,0,1,4,32,Jazz
+20-Dec,D. Mitchell,22,11,2,2,1,5,4,35,Jazz
+20-Dec,R. Rubio,26,11,10,2,1,4,1,37,Jazz
+20-Dec,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+20-Dec,A. Burks,2,0,0,0,0,0,0,1,Jazz
+20-Dec,D. Exum,4,2,2,0,0,3,1,9,Jazz
+20-Dec,J. Jerebko,0,2,0,1,0,1,1,6,Jazz
+20-Dec,R. Neto,0,0,0,0,0,0,0,1,Jazz
+20-Dec,R. O'Neale,7,1,2,2,1,1,2,15,Jazz
+20-Dec,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+20-Dec,D. Stockton,0,0,0,0,0,0,0,1,Jazz
+20-Dec,E. Udoh,0,0,0,0,0,1,1,2,Jazz
+18-Dec,J. Crowder,1,1,2,3,0,1,5,19,Jazz
+18-Dec,D. Favors,20,16,3,1,0,1,2,37,Jazz
+18-Dec,R. Gobert,13,15,3,2,3,3,2,33,Jazz
+18-Dec,J. Ingles,20,2,2,0,0,1,2,34,Jazz
+18-Dec,D. Mitchell,28,6,2,1,0,4,1,42,Jazz
+18-Dec,R. Rubio,22,7,9,1,0,3,4,35,Jazz
+18-Dec,T. Bradley,0,0,0,0,0,0,0,0,Jazz
+18-Dec,A. Burks,0,0,0,0,0,0,0,0,Jazz
+18-Dec,D. Exum,2,1,1,1,0,1,0,12,Jazz
+18-Dec,J. Jerebko,10,5,0,0,0,0,2,12,Jazz
+18-Dec,R. Neto,0,0,0,0,0,0,0,0,Jazz
+18-Dec,R. O'Neale,3,3,0,0,0,0,1,13,Jazz
+18-Dec,T. Sefolosha,0,0,0,0,0,0,0,0,Jazz
+18-Dec,D. Stockton,0,0,0,0,0,0,0,0,Jazz
+18-Dec,E. Udoh,0,0,0,0,0,0,0,0,Jazz
+21-Apr,A. Davis,47,10,1,0,3,2,4,39,Pelicans
+21-Apr,J. Holiday,41,3,8,0,0,7,1,40,Pelicans
+21-Apr,N. Mirotic,10,11,1,2,3,1,3,40,Pelicans
+21-Apr,E. Moore,14,3,1,3,0,1,3,34,Pelicans
+21-Apr,R. Rondo,7,7,16,0,0,2,2,35,Pelicans
+21-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,I. Clark,3,1,0,0,0,0,4,11,Pelicans
+21-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,C. Diallo,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,S. Hill,6,4,1,0,0,1,3,16,Pelicans
+21-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+21-Apr,D. Miller,3,4,0,0,0,0,1,23,Pelicans
+21-Apr,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+19-Apr,A. Davis,28,11,2,3,2,0,3,35,Pelicans
+19-Apr,J. Holiday,16,3,7,3,0,2,2,31,Pelicans
+19-Apr,N. Mirotic,30,8,2,3,1,0,3,30,Pelicans
+19-Apr,E. Moore,4,4,1,0,0,1,3,21,Pelicans
+19-Apr,R. Rondo,16,5,11,2,1,2,2,28,Pelicans
+19-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+19-Apr,I. Clark,7,0,2,2,0,2,4,26,Pelicans
+19-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+19-Apr,J. Crawford,5,1,0,1,0,2,0,7,Pelicans
+19-Apr,C. Diallo,0,1,0,0,0,0,1,7,Pelicans
+19-Apr,S. Hill,4,4,0,0,0,1,4,19,Pelicans
+19-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+19-Apr,D. Liggins,1,0,0,0,0,0,0,6,Pelicans
+19-Apr,D. Miller,8,1,2,2,0,1,2,22,Pelicans
+19-Apr,E. Okafor,0,0,0,0,0,0,1,3,Pelicans
+17-Apr,A. Davis,22,12,1,2,2,5,3,40,Pelicans
+17-Apr,J. Holiday,33,13,9,1,0,1,5,38,Pelicans
+17-Apr,N. Mirotic,17,8,0,0,2,0,3,39,Pelicans
+17-Apr,E. Moore,8,6,2,0,0,1,2,31,Pelicans
+17-Apr,R. Rondo,16,10,9,0,0,6,2,38,Pelicans
+17-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+17-Apr,I. Clark,3,1,3,0,0,1,1,17,Pelicans
+17-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+17-Apr,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+17-Apr,C. Diallo,0,1,0,0,0,0,0,4,Pelicans
+17-Apr,S. Hill,4,1,1,1,0,0,3,15,Pelicans
+17-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+17-Apr,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+17-Apr,D. Miller,8,1,0,0,0,0,1,15,Pelicans
+17-Apr,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,A. Davis,35,14,1,2,4,3,4,40,Pelicans
+14-Apr,J. Holiday,21,7,2,1,2,3,1,39,Pelicans
+14-Apr,N. Mirotic,16,11,3,2,4,1,1,39,Pelicans
+14-Apr,E. Moore,4,2,2,1,0,1,2,26,Pelicans
+14-Apr,R. Rondo,6,8,17,1,0,2,4,39,Pelicans
+14-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,I. Clark,10,0,1,1,1,2,1,24,Pelicans
+14-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,C. Diallo,0,2,0,0,1,0,2,10,Pelicans
+14-Apr,S. Hill,3,0,0,0,0,1,2,5,Pelicans
+14-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+14-Apr,D. Miller,0,4,0,0,0,1,0,14,Pelicans
+14-Apr,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+11-Apr,A. Davis,22,15,1,3,4,5,2,35,Pelicans
+11-Apr,J. Holiday,23,3,7,1,0,6,3,34,Pelicans
+11-Apr,N. Mirotic,21,15,1,1,1,3,2,34,Pelicans
+11-Apr,E. Moore,13,0,1,1,0,1,3,25,Pelicans
+11-Apr,R. Rondo,19,5,14,4,0,3,3,31,Pelicans
+11-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+11-Apr,I. Clark,11,2,2,1,0,0,2,28,Pelicans
+11-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+11-Apr,J. Crawford,2,1,1,0,0,0,0,3,Pelicans
+11-Apr,C. Diallo,2,1,0,0,0,0,0,4,Pelicans
+11-Apr,S. Hill,2,5,1,0,0,1,2,19,Pelicans
+11-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+11-Apr,D. Liggins,0,0,1,0,0,0,1,2,Pelicans
+11-Apr,D. Miller,7,4,1,0,0,0,2,20,Pelicans
+11-Apr,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,A. Davis,47,10,1,0,3,2,4,39,Pelicans
+7-Apr,J. Holiday,41,3,8,0,0,7,1,40,Pelicans
+7-Apr,N. Mirotic,10,11,1,2,3,1,3,40,Pelicans
+7-Apr,E. Moore,14,3,1,3,0,1,3,34,Pelicans
+7-Apr,R. Rondo,7,7,16,0,0,2,2,35,Pelicans
+7-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,I. Clark,3,1,0,0,0,0,4,11,Pelicans
+7-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,C. Diallo,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,S. Hill,6,4,1,0,0,1,3,16,Pelicans
+7-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+7-Apr,D. Miller,3,4,0,0,0,0,1,23,Pelicans
+7-Apr,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+1-Apr,A. Davis,28,11,2,3,2,0,3,35,Pelicans
+1-Apr,J. Holiday,16,3,7,3,0,2,2,31,Pelicans
+1-Apr,N. Mirotic,30,8,2,3,1,0,3,30,Pelicans
+1-Apr,E. Moore,4,4,1,0,0,1,3,21,Pelicans
+1-Apr,R. Rondo,16,5,11,2,1,2,2,28,Pelicans
+1-Apr,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+1-Apr,I. Clark,7,0,2,2,0,2,4,26,Pelicans
+1-Apr,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+1-Apr,J. Crawford,5,1,0,1,0,2,0,7,Pelicans
+1-Apr,C. Diallo,0,1,0,0,0,0,1,7,Pelicans
+1-Apr,S. Hill,4,4,0,0,0,1,4,19,Pelicans
+1-Apr,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+1-Apr,D. Liggins,1,0,0,0,0,0,0,6,Pelicans
+1-Apr,D. Miller,8,1,2,2,0,1,2,22,Pelicans
+1-Apr,E. Okafor,0,0,0,0,0,0,1,3,Pelicans
+27-Mar,A. Davis,22,12,1,2,2,5,3,40,Pelicans
+27-Mar,J. Holiday,33,13,9,1,0,1,5,38,Pelicans
+27-Mar,N. Mirotic,17,8,0,0,2,0,3,39,Pelicans
+27-Mar,E. Moore,8,6,2,0,0,1,2,31,Pelicans
+27-Mar,R. Rondo,16,10,9,0,0,6,2,38,Pelicans
+27-Mar,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+27-Mar,I. Clark,3,1,3,0,0,1,1,17,Pelicans
+27-Mar,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+27-Mar,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+27-Mar,C. Diallo,0,1,0,0,0,0,0,4,Pelicans
+27-Mar,S. Hill,4,1,1,1,0,0,3,15,Pelicans
+27-Mar,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+27-Mar,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+27-Mar,D. Miller,8,1,0,0,0,0,1,15,Pelicans
+27-Mar,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,A. Davis,35,14,1,2,4,3,4,40,Pelicans
+24-Mar,J. Holiday,21,7,2,1,2,3,1,39,Pelicans
+24-Mar,N. Mirotic,16,11,3,2,4,1,1,39,Pelicans
+24-Mar,E. Moore,4,2,2,1,0,1,2,26,Pelicans
+24-Mar,R. Rondo,6,8,17,1,0,2,4,39,Pelicans
+24-Mar,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,I. Clark,10,0,1,1,1,2,1,24,Pelicans
+24-Mar,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,C. Diallo,0,2,0,0,1,0,2,10,Pelicans
+24-Mar,S. Hill,3,0,0,0,0,1,2,5,Pelicans
+24-Mar,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+24-Mar,D. Miller,0,4,0,0,0,1,0,14,Pelicans
+24-Mar,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+17-Mar,A. Davis,22,15,1,3,4,5,2,35,Pelicans
+17-Mar,J. Holiday,23,3,7,1,0,6,3,34,Pelicans
+17-Mar,N. Mirotic,21,15,1,1,1,3,2,34,Pelicans
+17-Mar,E. Moore,13,0,1,1,0,1,3,25,Pelicans
+17-Mar,R. Rondo,19,5,14,4,0,3,3,31,Pelicans
+17-Mar,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+17-Mar,I. Clark,11,2,2,1,0,0,2,28,Pelicans
+17-Mar,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+17-Mar,J. Crawford,2,1,1,0,0,0,0,3,Pelicans
+17-Mar,C. Diallo,2,1,0,0,0,0,0,4,Pelicans
+17-Mar,S. Hill,2,5,1,0,0,1,2,19,Pelicans
+17-Mar,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+17-Mar,D. Liggins,0,0,1,0,0,0,1,2,Pelicans
+17-Mar,D. Miller,7,4,1,0,0,0,2,20,Pelicans
+17-Mar,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,A. Davis,47,10,1,0,3,2,4,39,Pelicans
+15-Mar,J. Holiday,41,3,8,0,0,7,1,40,Pelicans
+15-Mar,N. Mirotic,10,11,1,2,3,1,3,40,Pelicans
+15-Mar,E. Moore,14,3,1,3,0,1,3,34,Pelicans
+15-Mar,R. Rondo,7,7,16,0,0,2,2,35,Pelicans
+15-Mar,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,I. Clark,3,1,0,0,0,0,4,11,Pelicans
+15-Mar,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,C. Diallo,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,S. Hill,6,4,1,0,0,1,3,16,Pelicans
+15-Mar,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+15-Mar,D. Miller,3,4,0,0,0,0,1,23,Pelicans
+15-Mar,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+11-Mar,A. Davis,28,11,2,3,2,0,3,35,Pelicans
+11-Mar,J. Holiday,16,3,7,3,0,2,2,31,Pelicans
+11-Mar,N. Mirotic,30,8,2,3,1,0,3,30,Pelicans
+11-Mar,E. Moore,4,4,1,0,0,1,3,21,Pelicans
+11-Mar,R. Rondo,16,5,11,2,1,2,2,28,Pelicans
+11-Mar,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+11-Mar,I. Clark,7,0,2,2,0,2,4,26,Pelicans
+11-Mar,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+11-Mar,J. Crawford,5,1,0,1,0,2,0,7,Pelicans
+11-Mar,C. Diallo,0,1,0,0,0,0,1,7,Pelicans
+11-Mar,S. Hill,4,4,0,0,0,1,4,19,Pelicans
+11-Mar,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+11-Mar,D. Liggins,1,0,0,0,0,0,0,6,Pelicans
+11-Mar,D. Miller,8,1,2,2,0,1,2,22,Pelicans
+11-Mar,E. Okafor,0,0,0,0,0,0,1,3,Pelicans
+5-Feb,A. Davis,22,12,1,2,2,5,3,40,Pelicans
+5-Feb,J. Holiday,33,13,9,1,0,1,5,38,Pelicans
+5-Feb,N. Mirotic,17,8,0,0,2,0,3,39,Pelicans
+5-Feb,E. Moore,8,6,2,0,0,1,2,31,Pelicans
+5-Feb,R. Rondo,16,10,9,0,0,6,2,38,Pelicans
+5-Feb,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+5-Feb,I. Clark,3,1,3,0,0,1,1,17,Pelicans
+5-Feb,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+5-Feb,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+5-Feb,C. Diallo,0,1,0,0,0,0,0,4,Pelicans
+5-Feb,S. Hill,4,1,1,1,0,0,3,15,Pelicans
+5-Feb,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+5-Feb,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+5-Feb,D. Miller,8,1,0,0,0,0,1,15,Pelicans
+5-Feb,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,A. Davis,35,14,1,2,4,3,4,40,Pelicans
+3-Feb,J. Holiday,21,7,2,1,2,3,1,39,Pelicans
+3-Feb,N. Mirotic,16,11,3,2,4,1,1,39,Pelicans
+3-Feb,E. Moore,4,2,2,1,0,1,2,26,Pelicans
+3-Feb,R. Rondo,6,8,17,1,0,2,4,39,Pelicans
+3-Feb,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,I. Clark,10,0,1,1,1,2,1,24,Pelicans
+3-Feb,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,C. Diallo,0,2,0,0,1,0,2,10,Pelicans
+3-Feb,S. Hill,3,0,0,0,0,1,2,5,Pelicans
+3-Feb,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+3-Feb,D. Miller,0,4,0,0,0,1,0,14,Pelicans
+3-Feb,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+2-Feb,A. Davis,22,15,1,3,4,5,2,35,Pelicans
+2-Feb,J. Holiday,23,3,7,1,0,6,3,34,Pelicans
+2-Feb,N. Mirotic,21,15,1,1,1,3,2,34,Pelicans
+2-Feb,E. Moore,13,0,1,1,0,1,3,25,Pelicans
+2-Feb,R. Rondo,19,5,14,4,0,3,3,31,Pelicans
+2-Feb,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+2-Feb,I. Clark,11,2,2,1,0,0,2,28,Pelicans
+2-Feb,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+2-Feb,J. Crawford,2,1,1,0,0,0,0,3,Pelicans
+2-Feb,C. Diallo,2,1,0,0,0,0,0,4,Pelicans
+2-Feb,S. Hill,2,5,1,0,0,1,2,19,Pelicans
+2-Feb,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+2-Feb,D. Liggins,0,0,1,0,0,0,1,2,Pelicans
+2-Feb,D. Miller,7,4,1,0,0,0,2,20,Pelicans
+2-Feb,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,A. Davis,47,10,1,0,3,2,4,39,Pelicans
+12-Jan,J. Holiday,41,3,8,0,0,7,1,40,Pelicans
+12-Jan,N. Mirotic,10,11,1,2,3,1,3,40,Pelicans
+12-Jan,E. Moore,14,3,1,3,0,1,3,34,Pelicans
+12-Jan,R. Rondo,7,7,16,0,0,2,2,35,Pelicans
+12-Jan,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,I. Clark,3,1,0,0,0,0,4,11,Pelicans
+12-Jan,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,C. Diallo,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,S. Hill,6,4,1,0,0,1,3,16,Pelicans
+12-Jan,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+12-Jan,D. Miller,3,4,0,0,0,0,1,23,Pelicans
+12-Jan,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
+6-Jan,A. Davis,28,11,2,3,2,0,3,35,Pelicans
+6-Jan,J. Holiday,16,3,7,3,0,2,2,31,Pelicans
+6-Jan,N. Mirotic,30,8,2,3,1,0,3,30,Pelicans
+6-Jan,E. Moore,4,4,1,0,0,1,3,21,Pelicans
+6-Jan,R. Rondo,16,5,11,2,1,2,2,28,Pelicans
+6-Jan,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+6-Jan,I. Clark,7,0,2,2,0,2,4,26,Pelicans
+6-Jan,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+6-Jan,J. Crawford,5,1,0,1,0,2,0,7,Pelicans
+6-Jan,C. Diallo,0,1,0,0,0,0,1,7,Pelicans
+6-Jan,S. Hill,4,4,0,0,0,1,4,19,Pelicans
+6-Jan,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+6-Jan,D. Liggins,1,0,0,0,0,0,0,6,Pelicans
+6-Jan,D. Miller,8,1,2,2,0,1,2,22,Pelicans
+6-Jan,E. Okafor,0,0,0,0,0,0,1,3,Pelicans
+4-Dec,A. Davis,22,12,1,2,2,5,3,40,Pelicans
+4-Dec,J. Holiday,33,13,9,1,0,1,5,38,Pelicans
+4-Dec,N. Mirotic,17,8,0,0,2,0,3,39,Pelicans
+4-Dec,E. Moore,8,6,2,0,0,1,2,31,Pelicans
+4-Dec,R. Rondo,16,10,9,0,0,6,2,38,Pelicans
+4-Dec,A. Ajinca,0,0,0,0,0,0,0,0,Pelicans
+4-Dec,I. Clark,3,1,3,0,0,1,1,17,Pelicans
+4-Dec,D. Cousins,0,0,0,0,0,0,0,0,Pelicans
+4-Dec,J. Crawford,0,0,0,0,0,0,0,0,Pelicans
+4-Dec,C. Diallo,0,1,0,0,0,0,0,4,Pelicans
+4-Dec,S. Hill,4,1,1,1,0,0,3,15,Pelicans
+4-Dec,F. Jackson,0,0,0,0,0,0,0,0,Pelicans
+4-Dec,D. Liggins,0,0,0,0,0,0,0,0,Pelicans
+4-Dec,D. Miller,8,1,0,0,0,0,1,15,Pelicans
+4-Dec,E. Okafor,0,0,0,0,0,0,0,0,Pelicans
